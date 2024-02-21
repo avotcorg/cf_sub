@@ -10,7 +10,7 @@ import re
 import subprocess
 import time
 
-url = "https://t.me/s/cf_no1"
+url = "{url}"
 response = requests.get(url)
 html_content = response.text
 
