@@ -11,18 +11,12 @@ env: # 设置环境变量
   TZ: Asia/Shanghai
 
 jobs:
-  
- 
-deploy:
+  deploy:
     runs-on: ubuntu-latest
     steps:
     - name: 迁出代码
-      
-     
-uses: actions/checkout@v2
-    
-   
-- name: 安装Python
+      uses: actions/checkout@v2
+    - name: 安装Python
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
@@ -39,9 +33,7 @@ uses: actions/checkout@v2
       run: |
         pip install -r ./requirements.txt
     - name: 执行任务
-      
-     
-env:
+      env:
         url: ${{secrets.url}}
       run: |
         python ./yxcfip.py
