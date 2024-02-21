@@ -1,4 +1,4 @@
-name: Fetch
+name: yxcfip
 
 on:
   workflow_dispatch:
@@ -28,7 +28,11 @@ jobs:
     - name: 安装依赖
       run: pip install -r requirements.txt
     - name: 执行任务
-      run: python ./yxcfip.py
+      env:
+      url: ${{secrets.url}}
+      ACTIONS_DEPLOY_KEY: ${{secrets.KEY}}
+      run: |
+      python ./yxcfip.py
       
     - name: 提交更改
       run: |                 
