@@ -40,7 +40,7 @@ jobs:
         git config --local user.name "GitHub Actions"
         git pull origin main
         git add ip*
-        git add cfip/
+        git add cfip*
         git commit -m "$(date '+%Y-%m-%d %H:%M:%S') 抓取IP"
     - name: 推送更改
       uses: ad-m/github-push-action@master
