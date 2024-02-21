@@ -3,7 +3,7 @@ name: getyxcfip
 # 触发条件
 on:
   workflow_dispatch:
-
+  
   schedule:
     - cron: '*/30 * * * *'
 
@@ -44,4 +44,6 @@ jobs:
         git add ./ip.txt
         git add ./cfip.txt
         git commit -m "Add generated files"
-        git push
+        git remote set-url origin https://github.com/${{ github.repository }}.git
+        git pull
+        git push https://${{ secrets.ACCESS_TOKEN }}@github.com/${{ github.repository }}.git
