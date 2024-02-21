@@ -35,13 +35,13 @@ jobs:
     - name: Add SSH key
       run: |
         mkdir -p ~/.ssh/
-        echo "$ACTIONS_DEPLOY_KEY" > ~/.ssh/id_rsa
+        echo "$KEY" > ~/.ssh/id_rsa
         chmod 600 ~/.ssh/id_rsa
         ssh-keyscan github.com >> ~/.ssh/known_hosts
     - name: 执行任务
       env:
         url: ${{secrets.url}}
-        ACTIONS_DEPLOY_KEY: ${{secrets.ACTIONS_DEPLOY_KEY}}
+        ACTIONS_DEPLOY_KEY: ${{secrets.KEY}}
       run: |
         python ./yxcfip.py
     - name: Commit and Push
