@@ -32,18 +32,18 @@ jobs:
     - name: 安装依赖
       run: |
         pip install -r ./requirements.txt
-    - name: 执行任务
-      env:
-        url: ${{secrets.url}}
-        ACTIONS_DEPLOY_KEY: ${{secrets.ACTIONS_DEPLOY_KEY}}
-      run: |
-        python ./yxcfip.py
     - name: Add SSH key
       run: |
         mkdir -p ~/.ssh/
         echo "$ACTIONS_DEPLOY_KEY" > ~/.ssh/id_rsa
         chmod 600 ~/.ssh/id_rsa
         ssh-keyscan github.com >> ~/.ssh/known_hosts
+    - name: 执行任务
+      env:
+        url: ${{secrets.url}}
+        ACTIONS_DEPLOY_KEY: ${{secrets.ACTIONS_DEPLOY_KEY}}
+      run: |
+        python ./yxcfip.py
     - name: Commit and Push
       run: |
         git config --global user.name "GitHub Actions"
