@@ -20,12 +20,12 @@ ports = re.findall(r'<tg-spoiler>(\d+)</tg-spoiler>', html_content)
 regions = re.findall(r'\[Region\]</b>\s(.+?)<br/>', html_content)
 dates = re.findall(r'\[Date\]</b> (\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}) CST</div>', html_content)
 
-with open('/ip.txt', 'r', encoding='utf-8') as file1:
+with open('ip.txt', 'r', encoding='utf-8') as file1:
     existing_dates = {line.split(': ')[1].strip() for line in file1 if 'Date' in line}
-with open('/cfip.txt', 'r') as file1:
+with open('cfip.txt', 'r') as file1:
     existing_entries = {line.strip() for line in file1}
 
-with open('/ip.txt', 'a', encoding='utf-8') as file1, open('/cfip.txt', 'a') as file2:
+with open('ip.txt', 'a', encoding='utf-8') as file1, open('cfip.txt', 'a') as file2:
     for ip, port, region, date in zip(ip_addresses, ports, regions, dates):
         if date not in existing_dates:
             start_time = time.time()
