@@ -1,4 +1,4 @@
-name: getTrojan
+name: getyxcfip
 
 # 触发条件
 on:
@@ -34,7 +34,7 @@ jobs:
         pip install -r ./requirements.txt
     - name: 执行任务
       env:
-        api: ${{secrets.api}}
+        api: ${{api.url}}
       run: |
         python ./yxcfip.py
     - name: Commit
