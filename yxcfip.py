@@ -10,7 +10,7 @@ import re
 import subprocess
 import time
 
-url = "{url}"
+url = os.environ['url']
 response = requests.get(url)
 html_content = response.text
 
