@@ -1,52 +1,59 @@
-name: getyxcfip
+name: Fetch
 
-# 触发条件
 on:
   workflow_dispatch:
-  
   schedule:
+    # 表达式生成 https://crontab.guru/
     - cron: '*/30 * * * *'
-
-env: # 设置环境变量
-  TZ: Asia/Shanghai
+  push:
+    paths:
+      - 'sources.ip'
+      - 'sources.cfip'
+      - '.github/workflows/**'
+      - '**.py'
 
 jobs:
-  deploy:
+  fetch:
     runs-on: ubuntu-latest
     steps:
     - name: 迁出代码
-      uses: actions/checkout@v2
-    - name: 安装Python
-      uses: actions/setup-python@v2
+      uses: actions/checkout@v3
+    - name: 安装 Python
+      uses: actions/setup-python@v4
       with:
         python-version: '3.x'
-    - name: 加载缓存
-      uses: actions/cache@v2
-      with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/run_in_Actions/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
+        cache: 'pip'
     - name: 设置时区
       run: sudo timedatectl set-timezone 'Asia/Shanghai'
     - name: 安装依赖
-      run: |
-        pip install -r ./requirements.txt
-    - name: Add SSH key
-      run: |
-        mkdir -p ~/.ssh/
-        echo "$KEY" > ~/.ssh/id_rsa
-        chmod 600 ~/.ssh/id_rsa
-        ssh-keyscan github.com >> ~/.ssh/known_hosts
+      run: pip install -r requirements.txt
     - name: 执行任务
-      env:
-        url: ${{secrets.url}}
-        ACTIONS_DEPLOY_KEY: ${{secrets.KEY}}
+      run: python ./yxcfip.py
+      
+    - name: 提交更改
+      run: |                 
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git pull origin master
+        git add ip*
+        git add cfip/
+        git commit -m "$(date '+%Y-%m-%d %H:%M:%S') 抓取IP"
+    - name: 推送更改
+      uses: ad-m/github-push-action@master
+      with:
+        branch: master
+
+    - name: 计算要清除缓存的文件
+      id: purge_urls
       run: |
-        python ./yxcfip.py
-    - name: Commit and Push
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add ./ip.txt
-        git add ./cfip.txt
+        sleep 3
+        baseUrl="https://cdn.jsdelivr.net/gh/${{ github.repository }}@master"
+        urls=""
+        for f in `find -name "*.txt" -type f`; do
+          urls+="${baseUrl}/${f},"
+        done
+        echo "urls=${urls%,*}" >> $GITHUB_OUTPUT
+    - name: 清除 JsDelivr CDN 缓存
+      uses: egad13/purge-jsdelivr-cache@v1.0.3
+      with:
+        url: ${{ steps.purge_urls.outputs.urls }}
