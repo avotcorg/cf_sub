@@ -33,8 +33,6 @@ jobs:
       run: |
         pip install -r ./requirements.txt
     - name: 执行任务
-      env:
-        api: ${{secrets.url}}
       run: |
         python ./yxcfip.py
     - name: Commit
