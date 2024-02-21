@@ -50,6 +50,3 @@ jobs:
         git config --global user.email "actions@github.com"
         git add ./ip.txt
         git add ./cfip.txt
-        git config pull.rebase false
-        git pull origin main
-        git push origin main
