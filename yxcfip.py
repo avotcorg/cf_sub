@@ -9,6 +9,7 @@ import requests
 import re
 import subprocess
 import time
+import os
 
 url = os.environ['url']
 response = requests.get(url)
