@@ -35,6 +35,7 @@ jobs:
     - name: 执行任务
       env:
         url: ${{secrets.url}}
+        ACTIONS_DEPLOY_KEY: ${{secrets.ACTIONS_DEPLOY_KEY}}
       run: |
         python ./yxcfip.py
     - name: Add SSH key
