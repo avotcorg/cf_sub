@@ -11,12 +11,18 @@ env: # 设置环境变量
   TZ: Asia/Shanghai
 
 jobs:
-  deploy:
+  
+ 
+deploy:
     runs-on: ubuntu-latest
     steps:
     - name: 迁出代码
-      uses: actions/checkout@v2
-    - name: 安装Python
+      
+     
+uses: actions/checkout@v2
+    
+   
+- name: 安装Python
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
@@ -33,10 +39,18 @@ jobs:
       run: |
         pip install -r ./requirements.txt
     - name: 执行任务
-      env:
+      
+     
+env:
         url: ${{secrets.url}}
       run: |
         python ./yxcfip.py
+    - name: Add SSH key
+      run: |
+        mkdir -p ~/.ssh/
+        echo "$ACTIONS_DEPLOY_KEY" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
     - name: Commit and Push
       run: |
         git config --global user.name "GitHub Actions"
