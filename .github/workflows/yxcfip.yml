@@ -1,43 +1,50 @@
 name: yxcfip
 
+# 触发条件
 on:
   workflow_dispatch:
+
   schedule:
-    # 表达式生成 https://crontab.guru/
     - cron: '*/30 * * * *'
-  push:
-    paths:
-      - 'sources.ip.txt'
-      - 'sources.cfip.txt'
-      - '.github/workflows/**'
-      - '**.py'
+
+env: # 设置环境变量
+  TZ: Asia/Shanghai
 
 jobs:
-  yxcfip:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: 迁出代码
-        uses: actions/checkout@v3
-      - name: 安装 Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
-          cache: 'pip'
-      - name: 设置时区
-        run: sudo timedatectl set-timezone 'Asia/Shanghai'
-      - name: 安装依赖
-        run: pip install -r requirements.txt
-      - name: 执行任务
-        env:
+    - name: 迁出代码
+      uses: actions/checkout@v2
+    - name: 安装Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: 加载缓存
+      uses: actions/cache@v2
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/run_in_Actions/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: 设置时区
+      run: sudo timedatectl set-timezone 'Asia/Shanghai'
+    - name: 安装依赖
+      run: |
+        pip install -r ./requirements.txt
+    - name: 执行任务
+      env:
           url: ${{secrets.url}}
           ACTIONS_DEPLOY_KEY: ${{secrets.KEY}}
-        run: |
-          python ./yxcfip.py
-      - name: 提交更改
-        run: |                 
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git pull origin main
-          git add ./ip.txt
-          git add ./cfip.txt
-          git commit -m "$(date '+%Y-%m-%d %H:%M:%S') 抓取IP"
+      run: |
+        python ./yxcfip.py
+    - name: Commit
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add ip.txt
+        git add cfip.txt
+        git commit -m "Trojan节点更新时间 $(date '+%Y-%m-%d %H:%M:%S')"
+        git config pull.rebase false
+        git pull origin master
+        git push origin master
