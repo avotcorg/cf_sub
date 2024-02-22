@@ -43,7 +43,7 @@ jobs:
         git add cfip*
         git commit -m "$(date '+%Y-%m-%d %H:%M:%S') 抓取IP"
     - name: 推送更改
-      uses: ad-m/github-push-action@master
+      uses: ad-m/github-push-action@main
       with:
         branch: main
 
