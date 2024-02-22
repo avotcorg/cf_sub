@@ -58,7 +58,7 @@ with open('ip.txt', 'a', encoding='utf-8') as file1, open('cfip.txt', 'a') as fi
             file1.write(f"Region: {region}\n")
             file1.write(f"Date: {date}\n\n")
 
-            formatted_entry = f"{ip}:{port}#{region}" if region != 'HK' else f"{ip}:{port}#HK"
+            formatted_entry = f"{ip}:{port}#{region}-@WARP_KEY" if region != 'HK' else f"{ip}:{port}#HK-@WARP_KEY"
             file2.write(formatted_entry + '\n')
 
             print(f"IP Address: {ip}")
