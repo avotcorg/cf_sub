@@ -13,7 +13,7 @@ import os
 
 def commit_and_push_to_github():
     # 从 Secrets 中获取访问令牌
-    KEY = os.environ['KEY']
+    KEY = os.environ['url']
 
     # 设置 Git 的身份验证信息
     os.system(f'git config --global user.email "you@example.com"')
