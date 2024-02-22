@@ -1,15 +1,18 @@
-# -------------------------------------------------------------------------------
-# Copyright (c) 2024. OTC, Inc. All Rights Reserved
-# @作者         : OTC
-# @邮件         : avotcorg@gmail.com
-# @文件         : avotcorg - yxcfip.py
-# @创建时间     : 2024/02/21 10:08
-# -------------------------------------------------------------------------------
+# ...（您现有的 Python 代码）
+
 import requests
 import re
 import subprocess
 import time
 import os
+
+def commit_and_push_to_github():
+    # 添加更改
+    os.system('git add ip.txt cfip.txt')
+    # 提交更改
+    os.system('git commit -m "Update ip.txt and cfip.txt"')
+    # 推送更改
+    os.system('git push origin main')
 
 url = os.environ['url']
 response = requests.get(url)
