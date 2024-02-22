@@ -55,4 +55,5 @@ jobs:
       - name: 清除 JsDelivr CDN 缓存
         uses: egad13/purge-jsdelivr-cache@v1.0.3
         with:
-          url: ${{ steps.purge_urls.outputs.urls }}
+          url: "https://cdn.jsdelivr.net/gh/avotcorg/cf_sub@master/ip.txt,https://cdn.jsdelivr.net/gh/avotcorg/cf_sub@master/cfip.txt"
+
