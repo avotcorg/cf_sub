@@ -72,7 +72,7 @@ jobs:
           ACTIONS_DEPLOY_KEY: ${{secrets.KEY}}
         run: |
           python yxcfip.py
-      - name: 推送更新
+      - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.TOKEN }}
