@@ -7,6 +7,8 @@
 # -------------------------------------------------------------------------------
 import requests
 import re
+import subprocess
+import time
 import os
 
 url = os.environ['url']
@@ -18,14 +20,23 @@ ports = re.findall(r'<tg-spoiler>(\d+)</tg-spoiler>', html_content)
 regions = re.findall(r'\[Region\]</b>\s(.+?)<br/>', html_content)
 dates = re.findall(r'\[Date\]</b> (\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}) CST</div>', html_content)
 
-with open('ip.txt', 'r') as file1:
+with open('ip.txt', 'r', encoding='utf-8') as file1:
     existing_dates = {line.split(': ')[1].strip() for line in file1 if 'Date' in line}
 with open('cfip.txt', 'r') as file1:
     existing_entries = {line.strip() for line in file1}
 
-with open('ip.txt', 'a') as file1, open('cfip.txt', 'a') as file2:
+with open('ip.txt', 'a', encoding='utf-8') as file1, open('cfip.txt', 'a') as file2:
     for ip, port, region, date in zip(ip_addresses, ports, regions, dates):
         if date not in existing_dates:
+            start_time = time.time()
+            result = subprocess.run(['ping', '-c', '1', '-n', f'{ip}:{port}'], stdout=subprocess.PIPE).stdout.decode('utf-8', errors='ignore')
+            end_time = time.time()
+            ping_delay = end_time - start_time
+            if ping_delay > 0:
+                print(f"Ping延时: {ping_delay}秒")
+                print(result)
+                file1.write(f"Ping延时: {ping_delay}秒\n")
+                file1.write(result + '\n')
             file1.write(f"IP Address: {ip}\n")
             file1.write(f"Port: {port}\n")
             if region == 'CN' or region == '45102':
@@ -40,5 +51,6 @@ with open('ip.txt', 'a') as file1, open('cfip.txt', 'a') as file2:
             print(f"Port: {port}")
             print(f"Region: {region}")
             print(f"Date: {date}")
+            print('-----------------')
 
 print("数据已经保存到 ip.txt 和 cfip.txt")
