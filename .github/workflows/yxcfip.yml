@@ -7,8 +7,8 @@ on:
     - cron: '*/30 * * * *'
   push:
     paths:
-      - 'sources.ip1.txt'
-      - 'sources.cfip1.txt'
+      - 'sources.ip.txt'
+      - 'sources.cfip.txt'
       - '.github/workflows/**'
       - '**.py'
 
@@ -26,33 +26,19 @@ jobs:
       - name: 设置时区
         run: sudo timedatectl set-timezone 'Asia/Shanghai'
       - name: 安装依赖
-        run: pip install -r requirements1.txt
+        run: pip install -r requirements.txt
       - name: 执行任务
         env:
           url: ${{secrets.url}}
           ACTIONS_DEPLOY_KEY: ${{secrets.KEY}}
         run: |
-          python ./yxcfip.py > ip1.txt
-          python ./yxcfip.py > cfip1.txt
+          python ./yxcfip.py > ip.txt
+          python ./yxcfip.py > cfip.txt
       - name: 提交更改
         run: |                 
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git pull origin main
-          git add ./ip1.txt
-          git add ./cfip1.txt
+          git add ./ip.txt
+          git add ./cfip.txt
           git commit -m "$(date '+%Y-%m-%d %H:%M:%S') 抓取IP"
-      - name: 计算要清除缓存的文件
-        id: purge_urls
-        run: |
-          sleep 3
-          baseUrl="https://cdn.jsdelivr.net/gh/${{ github.repository }}@master"
-          urls=""
-          for f in `find -name "*.txt" -type f`; do
-            urls+="${baseUrl}/${f},"
-          done
-          echo "urls=${urls%,*}" >> $GITHUB_OUTPUT
-      - name: 清除 JsDelivr CDN 缓存
-        uses: egad13/purge-jsdelivr-cache@v1.0.3
-        with:
-          url: ${{ steps.purge_urls.outputs.urls }}
