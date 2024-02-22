@@ -12,12 +12,18 @@ import time
 import os
 
 def commit_and_push_to_github():
-    # 添加更改
+    # 从 Secrets 中获取访问令牌
+    access_token = os.environ['ACCESS_TOKEN']
+
+    # 设置 Git 的身份验证信息
+    os.system(f'git config --global user.email "you@example.com"')
+    os.system(f'git config --global user.name "Your Name"')
+    os.system(f'git config --global credential.helper store')
+
+    # 添加更改、提交更改和推送更改
     os.system('git add ip.txt cfip.txt')
-    # 提交更改
-    os.system('git commit -m "Update ip.txt and cfip.txt"')
-    # 推送更改
-    os.system('git push origin main')
+    os.system(f'git commit -m "Update ip.txt and cfip.txt"')
+    os.system(f'git push https://{access_token}@github.com/username/repository.git main')
 
 url = os.environ['url']
 response = requests.get(url)
