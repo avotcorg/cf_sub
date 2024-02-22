@@ -43,7 +43,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.KEY }}
+          ACTIONS_DEPLOY_KEY: ${{ secrets.KEY }}
           branch: main
           force_with_lease: true
           directory: .
