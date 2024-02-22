@@ -13,7 +13,7 @@ import os
 
 def commit_and_push_to_github():
     # 从 Secrets 中获取访问令牌
-    access_token = os.environ['ACCESS_TOKEN']
+    access_token = os.environ['TOKEN']
 
     # 设置 Git 的身份验证信息
     os.system(f'git config --global user.email "you@example.com"')
