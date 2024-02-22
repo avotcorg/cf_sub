@@ -7,8 +7,8 @@ on:
     - cron: '*/30 * * * *'
   push:
     paths:
-      - 'sources.ip'
-      - 'sources.cfip'
+      - 'sources.ip.txt'
+      - 'sources.cfip.txt'
       - '.github/workflows/**'
       - '**.py'
 
@@ -39,8 +39,8 @@ jobs:
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git pull origin main
-          git add ip*
-          git add cfip*
+          git add ./ip.txt
+          git add ./cfip.txt
           git commit -m "$(date '+%Y-%m-%d %H:%M:%S') 抓取IP"
       - name: 计算要清除缓存的文件
         id: purge_urls
