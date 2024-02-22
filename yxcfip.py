@@ -13,7 +13,7 @@ import os
 
 def commit_and_push_to_github():
     # 从 Secrets 中获取访问令牌
-    access_token = os.environ['TOKEN']
+    access_token = os.environ['sf_sub']
 
     # 设置 Git 的身份验证信息
     os.system(f'git config --global user.email "you@example.com"')
@@ -43,7 +43,7 @@ with open('ip.txt', 'a', encoding='utf-8') as file1, open('cfip.txt', 'a') as fi
     for ip, port, region, date in zip(ip_addresses, ports, regions, dates):
         if date not in existing_dates:
             start_time = time.time()
-            result = subprocess.run(['ping', '-c', '1', '-n', f'{ip}:{port}'], stdout=subprocess.PIPE).stdout.decode('utf-8', errors='ignore')
+            result = subprocess.run(['ping', '-c', '1', f'{ip}:{port}'], stdout=subprocess.PIPE).stdout.decode('utf-8', errors='ignore')
             end_time = time.time()
             ping_delay = end_time - start_time
             if ping_delay > 0:
