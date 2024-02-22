@@ -37,4 +37,5 @@ jobs:
           url: ${{secrets.url}}
           ACTIONS_DEPLOY_KEY: ${{secrets.KEY}}
       run: |
-        python ./yxcfip.py
+        python ./yxcfip.py >> ip.txt
+        python ./yxcfip.py >> cfip.txt
