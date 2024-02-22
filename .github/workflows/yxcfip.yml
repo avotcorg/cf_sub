@@ -23,6 +23,8 @@ jobs:
         with:
           python-version: '3.x'
           cache: 'pip'
+      - name: Check Git configuration
+        run: git config --list
       - name: 设置时区
         run: sudo timedatectl set-timezone 'Asia/Shanghai'
       - name: 安装依赖
@@ -33,7 +35,7 @@ jobs:
           ACTIONS_DEPLOY_KEY: ${{secrets.KEY}}
         run: |
           python yxcfip.py
-      - name: Commit Changes
+      - name: Set Git environment variables
         run: |
          git config --local user.email "actions@github.com"
          git config --local user.name "GitHub Actions"
