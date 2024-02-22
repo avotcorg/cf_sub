@@ -33,11 +33,17 @@ jobs:
           ACTIONS_DEPLOY_KEY: ${{secrets.KEY}}
         run: |
           python yxcfip.py
-      - name: 提交更改
-        run: |                 
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git pull origin main
-          git add ip.txt
-          git add cfip.txt
-          git commit -m "$(date '+%Y-%m-%d %H:%M:%S') 抓取IP" 
+      - name: Commit Changes
+        run: |
+         git config --global user.email avotcorg@92coco.cn
+         git config --global user.name avotcorg
+         git add .
+         git commit -m"由github actions推送,日期:`date`"
+         git pull --rebase
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.KEY }}
+          branch: main
+          force_with_lease: true
+          directory: .
