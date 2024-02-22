@@ -38,7 +38,7 @@ jobs:
          git config --local user.email "actions@github.com"
          git config --local user.name "GitHub Actions"
          git add .
-         git commit -m"由github actions推送,日期:`date`"
+         git commit -m"由github actions自动扫描推送,日期:`date`"
          git pull --rebase
       - name: Push changes
         uses: ad-m/github-push-action@master
@@ -47,3 +47,10 @@ jobs:
           branch: main
           force_with_lease: true
           directory: .
+      - name: 清理缓存
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
