@@ -32,8 +32,7 @@ jobs:
           url: ${{secrets.url}}
           ACTIONS_DEPLOY_KEY: ${{secrets.KEY}}
         run: |
-          python ./yxcfip.py > ip.txt
-          python ./yxcfip.py > cfip.txt
+          python ./yxcfip.py
       - name: 提交更改
         run: |                 
           git config --local user.email "actions@github.com"
