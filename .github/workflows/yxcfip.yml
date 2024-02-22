@@ -7,8 +7,8 @@ on:
     - cron: '*/30 * * * *'
   push:
     paths:
-      - 'sources.ip.txt'
-      - 'sources.cfip.txt'
+      - 'sources.ip'
+      - 'sources.cfip'
       - '.github/workflows/**'
       - '**.py'
 
@@ -39,8 +39,8 @@ jobs:
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git pull origin main
-          git add ip.txt
-          git add cfip.txt
+          git add ip*
+          git add cfip*
           git commit -m "$(date '+%Y-%m-%d %H:%M:%S') 抓取IP"
       - name: 计算要清除缓存的文件
         id: purge_urls
@@ -55,5 +55,4 @@ jobs:
       - name: 清除 JsDelivr CDN 缓存
         uses: egad13/purge-jsdelivr-cache@v1.0.3
         with:
-          url: "https://cdn.jsdelivr.net/gh/avotcorg/cf_sub@master/ip.txt,https://cdn.jsdelivr.net/gh/avotcorg/cf_sub@master/cfip.txt"
-
+          url: ${{ steps.purge_urls.outputs.urls }}
