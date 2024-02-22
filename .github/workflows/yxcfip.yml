@@ -35,10 +35,3 @@ jobs:
           ACTIONS_DEPLOY_KEY: ${{secrets.KEY}}
         run: |
           python yxcfip.py
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.TOKEN }}
-          branch: main
-          force_with_lease: true
-          directory: .
