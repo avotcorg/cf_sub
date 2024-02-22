@@ -32,7 +32,8 @@ jobs:
           url: ${{secrets.url}}
           ACTIONS_DEPLOY_KEY: ${{secrets.KEY}}
         run: |
-          python ./yxcfip.py
+          python ./yxcfip.py > ip.txt
+          python ./yxcfip.py > cfip.txt
       - name: 提交更改
         run: |                 
           git config --local user.email "actions@github.com"
@@ -41,8 +42,6 @@ jobs:
           git add ip*
           git add cfip*
           git commit -m "$(date '+%Y-%m-%d %H:%M:%S') 抓取IP"
-
-          
       - name: 计算要清除缓存的文件
         id: purge_urls
         run: |
