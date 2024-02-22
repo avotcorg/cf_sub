@@ -1,0 +1,49 @@
+name: main
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 表达式生成 https://crontab.guru/
+    - cron: '*/30 * * * *'
+  push:
+    paths:
+      - 'secrets.ip.txt'
+      - 'secrets.cfip.txt'
+      - '.github/workflows/**'
+      - '**.py'
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 迁出代码
+        uses: actions/checkout@main
+      - name: 安装 Python
+        uses: actions/setup-python@main
+        with:
+          python-version: '3.x'
+          cache: 'pip'
+      - name: 设置时区
+        run: sudo timedatectl set-timezone 'Asia/Shanghai'
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+      - name: 执行任务
+        env:
+          url: ${{secrets.url}}
+          ACTIONS_DEPLOY_KEY: ${{secrets.KEY}}
+        run: |
+          python yxcfip.py
+      - name: Commit Changes
+        run: |
+         git config --local user.email "actions@github.com"
+         git config --local user.name "GitHub Actions"
+         git add .
+         git commit -m"由github actions推送,日期:`date`"
+         git pull --rebase
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.TOKEN }}
+          branch: main
+          force_with_lease: true
+          directory: .
