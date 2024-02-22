@@ -41,10 +41,8 @@ jobs:
           git add ip*
           git add cfip*
           git commit -m "$(date '+%Y-%m-%d %H:%M:%S') 抓取IP"
-      - name: 推送更改
-        uses: ad-m/github-push-action
-        with:
-          branch: main
+
+          
       - name: 计算要清除缓存的文件
         id: purge_urls
         run: |
