@@ -54,3 +54,4 @@ with open('ip.txt', 'a', encoding='utf-8') as file1, open('cfip.txt', 'a') as fi
             print('-----------------')
 
 print("数据已经保存到 ip.txt 和 cfip.txt")
+commit_and_push_to_github()
