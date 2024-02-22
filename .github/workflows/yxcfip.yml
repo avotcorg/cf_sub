@@ -41,7 +41,7 @@ jobs:
          git commit -m"由github actions推送,日期:`date`"
          git pull --rebase
       - name: Push changes
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.KEY }}
           branch: main
