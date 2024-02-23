@@ -63,7 +63,7 @@ jobs:
           echo "urls=${urls%,*}" >> $GITHUB_ENV
 
       - name: Purge JsDelivr CDN cache
-        uses: egad13/purge-jsdelivr-cache@v2
+        uses: egad13/purge-jsdelivr-cache@v1
         with:
           url: ${{ steps.purge_urls.outputs.urls }}
         continue-on-error: true
