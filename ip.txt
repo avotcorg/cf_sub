@@ -122,3 +122,10 @@ Port: 443
 Region: HK
 Date: 2024-02-23 13:31:35
 
+Ping延时: 3.21毫秒
+
+IP Address: 45.66.131.219
+Port: 50700
+Region: JP
+Date: 2024-02-23 21:33:42
+
