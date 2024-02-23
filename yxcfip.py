@@ -45,11 +45,11 @@ with open('ip.txt', 'a', encoding='utf-8') as file1, open('cfip.txt', 'a') as fi
             start_time = time.time()
             result = subprocess.run(['ping', '-c', '1', f'{ip}:{port}'], stdout=subprocess.PIPE).stdout.decode('utf-8', errors='ignore')
             end_time = time.time()
-            ping_delay = end_time - start_time
+            ping_delay = (end_time - start_time) * 1000
             if ping_delay > 0:
-                print(f"Ping延时: {ping_delay}秒")
+                print(f"Ping延时: {ping_delay}毫秒")
                 print(result)
-                file1.write(f"Ping延时: {ping_delay}秒\n")
+                file1.write(f"Ping延时: {ping_delay}毫秒\n")
                 file1.write(result + '\n')
             file1.write(f"IP Address: {ip}\n")
             file1.write(f"Port: {port}\n")
