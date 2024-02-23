@@ -143,3 +143,10 @@ Port: 49001
 Region: HK
 Date: 2024-02-23 23:34:45
 
+Ping延时: 3.33毫秒
+
+IP Address: 199.19.106.201
+Port: 8443
+Region: US
+Date: 2024-02-24 05:30:18
+
