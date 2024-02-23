@@ -54,16 +54,16 @@ jobs:
           sleep 3
           baseUrl="https://cdn.jsdelivr.net/gh/${{ github.repository }}@master"
           urls=""
-          for f in $(find snippets -name "*.yml" -type f); do
+          for f in $(find snippets -name "*.txt" -type f); do
             urls+="${baseUrl}/${f},"
           done
-          for f in $(find . -name "list*" -type f -maxdepth 1); do
+          for f in $(find . -name "*.txt" -type f -maxdepth 1); do
             urls+="${baseUrl}/${f},"
           done
           echo "urls=${urls%,*}" >> $GITHUB_ENV
 
       - name: Purge JsDelivr CDN cache
-        uses: egad13/purge-jsdelivr-cache@v1
+        uses: egad13/purge-jsdelivr-cache@v2
         with:
           url: ${{ steps.purge_urls.outputs.urls }}
         continue-on-error: true
