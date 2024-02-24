@@ -150,3 +150,10 @@ Port: 8443
 Region: US
 Date: 2024-02-24 05:30:18
 
+Ping延时: 2.95毫秒
+
+IP Address: 147.78.244.154
+Port: 13000
+Region: JP
+Date: 2024-02-24 11:32:48
+
