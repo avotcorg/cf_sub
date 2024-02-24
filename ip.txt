@@ -171,3 +171,10 @@ Port: 49001
 Region: HK
 Date: 2024-02-24 13:33:56
 
+Ping延时: 3.36毫秒
+
+IP Address: 45.66.131.214
+Port: 29300
+Region: JP
+Date: 2024-02-24 15:31:29
+
