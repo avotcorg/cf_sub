@@ -255,3 +255,10 @@ Port: 50038
 Region: HK
 Date: 2024-02-25 21:35:42
 
+Ping延时: 3.17毫秒
+
+IP Address: 125.229.230.180
+Port: 28233
+Region: TW
+Date: 2024-02-25 23:35:28
+
