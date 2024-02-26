@@ -374,3 +374,10 @@ Port: 2337
 Region: HK
 Date: 2024-02-27 01:32:26
 
+Ping延时: 3.25毫秒
+
+IP Address: 118.163.101.44
+Port: 44332
+Region: TW
+Date: 2024-02-27 05:30:47
+
