@@ -325,3 +325,10 @@ Port: 2053
 Region: HK
 Date: 2024-02-26 15:35:19
 
+Ping延时: 2.89毫秒
+
+IP Address: 141.98.196.122
+Port: 37622
+Region: JP
+Date: 2024-02-26 15:37:51
+
