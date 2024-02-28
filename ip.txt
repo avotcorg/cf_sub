@@ -458,3 +458,10 @@ Port: 49001
 Region: HK
 Date: 2024-02-28 09:31:15
 
+Ping延时: 2.98毫秒
+
+IP Address: 125.227.70.180
+Port: 20734
+Region: TW
+Date: 2024-02-28 11:30:51
+
