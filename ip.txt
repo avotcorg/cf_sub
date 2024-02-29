@@ -570,3 +570,10 @@ Port: 49996
 Region: US
 Date: 2024-02-29 23:38:45
 
+Ping延时: 3.66毫秒
+
+IP Address: 176.119.150.179
+Port: 49437
+Region: JP
+Date: 2024-03-01 05:31:56
+
