@@ -612,3 +612,10 @@ Port: 2053
 Region: US
 Date: 2024-03-01 23:37:13
 
+Ping延时: 2.87毫秒
+
+IP Address: 125.227.215.155
+Port: 10453
+Region: TW
+Date: 2024-03-02 01:30:35
+
