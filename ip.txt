@@ -605,3 +605,10 @@ Port: 46832
 Region: TW
 Date: 2024-03-01 23:35:20
 
+Ping延时: 2.89毫秒
+
+IP Address: 64.64.228.98
+Port: 2053
+Region: US
+Date: 2024-03-01 23:37:13
+
