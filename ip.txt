@@ -640,3 +640,10 @@ Port: 2337
 Region: HK
 Date: 2024-03-02 15:31:16
 
+Ping延时: 3.23毫秒
+
+IP Address: 147.78.246.159
+Port: 58904
+Region: JP
+Date: 2024-03-02 17:31:29
+
