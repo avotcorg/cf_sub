@@ -668,3 +668,10 @@ Port: 44332
 Region: TW
 Date: 2024-03-02 23:44:12
 
+Ping延时: 2.98毫秒
+
+IP Address: 116.162.172.123
+Port: 50038
+Region: HK
+Date: 2024-03-03 03:32:20
+
