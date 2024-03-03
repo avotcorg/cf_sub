@@ -675,3 +675,10 @@ Port: 50038
 Region: HK
 Date: 2024-03-03 03:32:20
 
+Ping延时: 3.3毫秒
+
+IP Address: 38.47.126.208
+Port: 34237
+Region: JP
+Date: 2024-03-03 13:31:44
+
