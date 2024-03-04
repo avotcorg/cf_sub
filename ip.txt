@@ -759,3 +759,10 @@ Port: 44332
 Region: TW
 Date: 2024-03-04 11:30:24
 
+Ping延时: 3.14毫秒
+
+IP Address: 176.119.150.204
+Port: 2008
+Region: JP
+Date: 2024-03-04 15:33:29
+
