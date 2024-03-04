@@ -787,3 +787,10 @@ Port: 50038
 Region: HK
 Date: 2024-03-04 19:32:50
 
+Ping延时: 3.15毫秒
+
+IP Address: 147.78.243.164
+Port: 57391
+Region: JP
+Date: 2024-03-04 21:31:47
+
