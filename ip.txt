@@ -843,3 +843,10 @@ Port: 14092
 Region: TW
 Date: 2024-03-05 11:34:23
 
+Ping延时: 3.02毫秒
+
+IP Address: 192.243.125.209
+Port: 8443
+Region: JP
+Date: 2024-03-05 13:31:25
+
