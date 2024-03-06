@@ -920,3 +920,10 @@ Port: 50038
 Region: HK
 Date: 2024-03-06 13:32:16
 
+Ping延时: 3.11毫秒
+
+IP Address: 176.119.149.241
+Port: 3000
+Region: JP
+Date: 2024-03-06 15:31:24
+
