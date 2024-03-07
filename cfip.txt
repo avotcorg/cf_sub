@@ -34,3 +34,5 @@
 199.193.127.249:443#US-TG频道@Warp_Key
 35.220.252.88:50538#HK-TG频道@Warp_Key
 220.196.191.215:16331#HK-TG频道@Warp_Key
+47.76.146.1:2053#<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87ADF09F87B0.png')"><b>🇭🇰</b></i>45102-TG频道@Warp_Key
+136.0.11.153:34237#<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87AFF09F87B5.png')"><b>🇯🇵</b></i>JP-TG频道@Warp_Key
