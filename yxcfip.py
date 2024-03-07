@@ -31,7 +31,7 @@ html_content = response.text
 
 ip_addresses = re.findall(r'<tg-spoiler>(\d+\.\d+\.\d+\.\d+)</tg-spoiler>', html_content)
 ports = re.findall(r'<tg-spoiler>(\d+)</tg-spoiler>', html_content)
-regions = re.findall(r'\[Region\]</b>\s(.+?)<br/>', html_content)
+regions = re.findall(r'</i>(.+?)<br/><br/><b>\[IP\]</b>', html_content)
 dates = re.findall(r'\[Date\]</b> (\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}) CST</div>', html_content)
 
 with open('ip.txt', 'r', encoding='utf-8') as file1:
