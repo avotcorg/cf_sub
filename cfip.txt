@@ -6,17 +6,13 @@
 43.159.49.198:5532#SG-TG频道@Warp_Key
 125.227.70.180:20734#TW-TG频道@Warp_Key
 202.81.231.30:53178#HK-TG频道@Warp_Key
-103.137.63.37:46832#TW-TG频道@Warp_Key
 125.227.215.155:10453#TW-TG频道@Warp_Key
 47.76.32.108:2053#HK-TG频道@Warp_Key
 43.153.207.2:5537#SG-TG频道@Warp_Key
 120.92.145.169:2337#HK-TG频道@Warp_Key
 64.64.229.168:42911#US-TG频道@Warp_Key
-116.162.172.124:50038#HK-TG频道@Warp_Key
-103.137.63.37:46832#TW-TG频道@Warp_Key
 118.163.101.44:44332#TW-TG频道@Warp_Key
 176.119.150.204:2008#JP-TG频道@Warp_Key
-116.162.172.124:50038#HK-TG频道@Warp_Key
 147.78.243.164:57391#JP-TG频道@Warp_Key
 216.24.191.69:42247#US-TG频道@Warp_Key
 152.32.190.239:4431#HK-TG频道@Warp_Key
@@ -28,11 +24,9 @@
 116.162.172.124:50038#HK-TG频道@Warp_Key
 176.119.149.241:3000#JP-TG频道@Warp_Key
 38.207.176.73:30502#HK-TG频道@Warp_Key
-47.243.162.49:2083#HK-TG频道@Warp_Key
-116.162.172.123:50038#HK-TG频道@Warp_Key
 118.163.101.44:44332#TW-TG频道@Warp_Key
 199.193.127.249:443#US-TG频道@Warp_Key
 35.220.252.88:50538#HK-TG频道@Warp_Key
 220.196.191.215:16331#HK-TG频道@Warp_Key
-47.76.146.1:2053#<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87ADF09F87B0.png')"><b>🇭🇰</b></i>45102-TG频道@Warp_Key
-136.0.11.153:34237#<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87AFF09F87B5.png')"><b>🇯🇵</b></i>JP-TG频道@Warp_Key
+47.76.146.1:2053#HK-TG频道@Warp_Key
+136.0.11.153:34237#JP-TG频道@Warp_Key
