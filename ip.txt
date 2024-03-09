@@ -1109,3 +1109,10 @@ Port: 4466
 Region: HK
 Date: 2024-03-09 15:30:42
 
+Ping延时: 50.12毫秒
+
+IP Address: 107.165.195.179
+Port: 443
+Region: JP
+Date: 2024-03-09 19:31:16
+
