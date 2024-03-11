@@ -1256,3 +1256,10 @@ Port: 28367
 Region: HK
 Date: 2024-03-11 17:36:56
 
+Ping延时: 72.24毫秒
+
+IP Address: 35.236.140.97
+Port: 3000
+Region: TW
+Date: 2024-03-11 19:30:49
+
