@@ -1298,3 +1298,10 @@ Port: 10001
 Region: US
 Date: 2024-03-11 23:40:09
 
+Ping延时: 40.54毫秒
+
+IP Address: 45.251.240.73
+Port: 34237
+Region: JP
+Date: 2024-03-12 01:31:26
+
