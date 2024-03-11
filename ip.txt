@@ -1228,3 +1228,10 @@ Port: 50008
 Region: US
 Date: 2024-03-11 05:30:20
 
+Ping延时: 29.5毫秒
+
+IP Address: 120.92.145.169
+Port: 2337
+Region: HK
+Date: 2024-03-11 09:33:36
+
