@@ -1326,3 +1326,10 @@ Port: 55576
 Region: HK
 Date: 2024-03-12 15:33:47
 
+Ping延时: 28.15毫秒
+
+IP Address: 35.236.140.97
+Port: 3000
+Region: TW
+Date: 2024-03-12 17:30:37
+
