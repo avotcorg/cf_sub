@@ -1312,3 +1312,10 @@ Port: 12313
 Region: HK
 Date: 2024-03-12 05:33:27
 
+Ping延时: 3.0毫秒
+
+IP Address: 202.39.212.181
+Port: 28731
+Region: TW
+Date: 2024-03-12 09:30:43
+
