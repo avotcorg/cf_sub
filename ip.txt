@@ -1347,3 +1347,31 @@ Port: 37875
 Region: HK
 Date: 2024-03-12 23:35:20
 
+Ping延时: 35.27毫秒
+
+IP Address: 118.163.101.44
+Port: 44332
+Region: TW
+Date: 2024-03-12 23:39:10
+
+Ping延时: 2.23毫秒
+
+IP Address: 43.128.110.33
+Port: 34237
+Region: SG
+Date: 2024-03-12 23:40:15
+
+Ping延时: 2.01毫秒
+
+IP Address: 20.243.251.236
+Port: 56209
+Region: JP
+Date: 2024-03-12 23:41:34
+
+Ping延时: 2.04毫秒
+
+IP Address: 64.64.233.88
+Port: 57221
+Region: US
+Date: 2024-03-12 23:41:57
+
