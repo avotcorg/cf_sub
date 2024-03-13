@@ -1396,3 +1396,17 @@ Port: 443
 Region: JP
 Date: 2024-03-13 13:30:43
 
+Ping延时: 37.14毫秒
+
+IP Address: 35.201.193.97
+Port: 443
+Region: TW
+Date: 2024-03-13 17:30:40
+
+Ping延时: 2.08毫秒
+
+IP Address: 45.251.240.213
+Port: 34237
+Region: JP
+Date: 2024-03-13 17:31:25
+
