@@ -1487,3 +1487,10 @@ Port: 443
 Region: TW
 Date: 2024-03-15 03:30:42
 
+Ping延时: 28.68毫秒
+
+IP Address: 64.64.228.98
+Port: 8443
+Region: US
+Date: 2024-03-15 05:30:21
+
