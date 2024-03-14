@@ -1473,3 +1473,10 @@ Port: 49142
 Region: SG
 Date: 2024-03-14 23:35:38
 
+Ping延时: 29.54毫秒
+
+IP Address: 45.66.216.109
+Port: 6162
+Region: JP
+Date: 2024-03-14 23:37:51
+
