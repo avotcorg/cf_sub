@@ -1480,3 +1480,10 @@ Port: 6162
 Region: JP
 Date: 2024-03-14 23:37:51
 
+Ping延时: 31.58毫秒
+
+IP Address: 35.201.203.106
+Port: 443
+Region: TW
+Date: 2024-03-15 03:30:42
+
