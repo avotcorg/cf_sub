@@ -1627,3 +1627,10 @@ Port: 443
 Region: HK
 Date: 2024-03-17 11:45:23
 
+Ping延时: 3.19毫秒
+
+IP Address: 193.122.123.165
+Port: 50000
+Region: KR
+Date: 2024-03-17 13:30:14
+
