@@ -1655,3 +1655,17 @@ Port: 20010
 Region: KR
 Date: 2024-03-17 21:31:35
 
+Ping延时: 3.34毫秒
+
+IP Address: 43.156.6.97
+Port: 10392
+Region: SG
+Date: 2024-03-17 23:32:19
+
+Ping延时: 2.1毫秒
+
+IP Address: 146.56.130.56
+Port: 20010
+Region: KR
+Date: 2024-03-17 23:33:50
+
