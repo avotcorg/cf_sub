@@ -1669,3 +1669,10 @@ Port: 20010
 Region: KR
 Date: 2024-03-17 23:33:50
 
+Ping延时: 3.37毫秒
+
+IP Address: 154.17.6.196
+Port: 51297
+Region: US
+Date: 2024-03-18 05:30:48
+
