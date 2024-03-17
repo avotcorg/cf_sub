@@ -1648,3 +1648,10 @@ Port: 8443
 Region: HK
 Date: 2024-03-17 17:33:27
 
+Ping延时: 42.34毫秒
+
+IP Address: 152.70.248.175
+Port: 20010
+Region: KR
+Date: 2024-03-17 21:31:35
+
