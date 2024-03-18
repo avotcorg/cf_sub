@@ -1725,3 +1725,10 @@ Port: 10057
 Region: KR
 Date: 2024-03-18 23:53:37
 
+Ping延时: 92.54毫秒
+
+IP Address: 45.251.240.73
+Port: 34237
+Region: JP
+Date: 2024-03-19 05:32:18
+
