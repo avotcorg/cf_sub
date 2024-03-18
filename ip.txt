@@ -1690,3 +1690,10 @@ Port: 26558
 Region: US
 Date: 2024-03-18 17:35:00
 
+Ping延时: 78.41毫秒
+
+IP Address: 146.56.177.67
+Port: 61153
+Region: KR
+Date: 2024-03-18 21:30:38
+
