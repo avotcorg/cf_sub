@@ -1760,3 +1760,10 @@ Port: 20010
 Region: KR
 Date: 2024-03-19 17:45:13
 
+Ping延时: 26.82毫秒
+
+IP Address: 45.66.216.109
+Port: 6162
+Region: JP
+Date: 2024-03-19 21:32:49
+
