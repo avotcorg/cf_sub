@@ -1830,3 +1830,17 @@ Port: 10453
 Region: TW
 Date: 2024-03-20 11:40:45
 
+Ping延时: 30.03毫秒
+
+IP Address: 35.189.175.230
+Port: 59793
+Region: TW
+Date: 2024-03-20 13:36:36
+
+Ping延时: 2.11毫秒
+
+IP Address: 132.145.83.155
+Port: 33799
+Region: KR
+Date: 2024-03-20 13:38:42
+
