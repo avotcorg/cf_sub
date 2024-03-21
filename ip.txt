@@ -1970,3 +1970,10 @@ Port: 2053
 Region: HK
 Date: 2024-03-21 19:39:23
 
+Ping延时: 29.72毫秒
+
+IP Address: 216.24.189.68
+Port: 42031
+Region: US
+Date: 2024-03-21 21:30:57
+
