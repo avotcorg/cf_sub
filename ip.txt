@@ -1942,3 +1942,10 @@ Port: 3443
 Region: HK
 Date: 2024-03-21 11:49:39
 
+Ping延时: 40.01毫秒
+
+IP Address: 129.154.212.181
+Port: 20309
+Region: KR
+Date: 2024-03-21 15:30:32
+
