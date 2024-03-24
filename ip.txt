@@ -2271,3 +2271,10 @@ Port: 2004
 Region: HK
 Date: 2024-03-24 21:36:07
 
+Ping延时: 2.44毫秒
+
+IP Address: 154.17.2.125
+Port: 39201
+Region: US
+Date: 2024-03-24 21:37:03
+
