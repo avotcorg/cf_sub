@@ -2264,3 +2264,10 @@ Port: 50008
 Region: US
 Date: 2024-03-24 15:34:44
 
+Ping延时: 51.94毫秒
+
+IP Address: 38.207.164.178
+Port: 2004
+Region: HK
+Date: 2024-03-24 21:36:07
+
