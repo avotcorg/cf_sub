@@ -2418,3 +2418,17 @@ Port: 2053
 Region: HK
 Date: 2024-03-26 01:37:48
 
+Ping延时: 19.79毫秒
+
+IP Address: 149.104.25.221
+Port: 20006
+Region: HK
+Date: 2024-03-26 05:38:56
+
+Ping延时: 2.14毫秒
+
+IP Address: 202.39.212.181
+Port: 28731
+Region: TW
+Date: 2024-03-26 05:41:49
+
