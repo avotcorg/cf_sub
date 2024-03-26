@@ -2432,3 +2432,10 @@ Port: 28731
 Region: TW
 Date: 2024-03-26 05:41:49
 
+Ping延时: 52.09毫秒
+
+IP Address: 34.97.155.46
+Port: 20672
+Region: JP
+Date: 2024-03-26 11:33:05
+
