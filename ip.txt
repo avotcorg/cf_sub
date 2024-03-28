@@ -2642,3 +2642,10 @@ Port: 2083
 Region: US
 Date: 2024-03-28 23:45:24
 
+Ping延时: 47.17毫秒
+
+IP Address: 176.119.149.241
+Port: 3000
+Region: JP
+Date: 2024-03-29 01:34:07
+
