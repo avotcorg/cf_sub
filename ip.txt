@@ -2607,3 +2607,10 @@ Port: 8001
 Region: US
 Date: 2024-03-28 13:53:41
 
+Ping延时: 46.54毫秒
+
+IP Address: 147.78.243.164
+Port: 57391
+Region: JP
+Date: 2024-03-28 17:32:53
+
