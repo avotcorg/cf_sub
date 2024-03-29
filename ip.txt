@@ -2747,3 +2747,10 @@ Port: 49999
 Region: US
 Date: 2024-03-29 23:50:05
 
+Ping延时: 28.16毫秒
+
+IP Address: 216.24.191.69
+Port: 42085
+Region: US
+Date: 2024-03-30 03:30:48
+
