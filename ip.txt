@@ -2705,3 +2705,45 @@ Port: 6678
 Region: JP
 Date: 2024-03-29 21:33:27
 
+Ping延时: 3.49毫秒
+
+IP Address: 52.184.86.190
+Port: 10023
+Region: HK
+Date: 2024-03-29 23:39:42
+
+Ping延时: 2.29毫秒
+
+IP Address: 125.227.70.180
+Port: 11290
+Region: TW
+Date: 2024-03-29 23:43:51
+
+Ping延时: 2.16毫秒
+
+IP Address: 43.128.110.33
+Port: 34237
+Region: SG
+Date: 2024-03-29 23:45:44
+
+Ping延时: 2.37毫秒
+
+IP Address: 62.106.70.181
+Port: 10006
+Region: JP
+Date: 2024-03-29 23:48:35
+
+Ping延时: 2.27毫秒
+
+IP Address: 146.56.190.2
+Port: 2023
+Region: KR
+Date: 2024-03-29 23:49:15
+
+Ping延时: 2.31毫秒
+
+IP Address: 154.17.25.205
+Port: 49999
+Region: US
+Date: 2024-03-29 23:50:05
+
