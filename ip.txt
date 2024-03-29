@@ -2698,3 +2698,10 @@ Port: 20001
 Region: HK
 Date: 2024-03-29 19:38:55
 
+Ping延时: 43.98毫秒
+
+IP Address: 147.78.243.121
+Port: 6678
+Region: JP
+Date: 2024-03-29 21:33:27
+
