@@ -2866,3 +2866,10 @@ Port: 13645
 Region: TW
 Date: 2024-03-31 01:33:45
 
+Ping延时: 66.15毫秒
+
+IP Address: 38.47.97.90
+Port: 38757
+Region: JP
+Date: 2024-03-31 01:38:18
+
