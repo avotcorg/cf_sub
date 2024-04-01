@@ -3020,3 +3020,17 @@ Port: 9080
 Region: US
 Date: 2024-04-01 23:46:44
 
+Ping延时: 40.83毫秒
+
+IP Address: 147.78.245.145
+Port: 34237
+Region: JP
+Date: 2024-04-02 01:33:21
+
+Ping延时: 2.38毫秒
+
+IP Address: 129.154.198.58
+Port: 46452
+Region: KR
+Date: 2024-04-02 01:33:56
+
