@@ -3069,3 +3069,10 @@ Port: 19944
 Region: US
 Date: 2024-04-02 21:47:20
 
+Ping延时: 67.25毫秒
+
+IP Address: 34.150.42.59
+Port: 20365
+Region: HK
+Date: 2024-04-03 19:34:14
+
