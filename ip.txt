@@ -3076,3 +3076,10 @@ Port: 20365
 Region: HK
 Date: 2024-04-03 19:34:14
 
+Ping延时: 56.89毫秒
+
+IP Address: 136.0.11.99
+Port: 34237
+Region: JP
+Date: 2024-04-03 21:32:39
+
