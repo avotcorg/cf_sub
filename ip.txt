@@ -3181,3 +3181,10 @@ Port: 28795
 Region: TW
 Date: 2024-04-04 19:34:29
 
+Ping延时: 4.41毫秒
+
+IP Address: 45.251.241.103
+Port: 34237
+Region: JP
+Date: 2024-04-04 19:37:24
+
