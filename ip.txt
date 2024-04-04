@@ -3230,3 +3230,10 @@ Port: 123
 Region: US
 Date: 2024-04-04 23:56:21
 
+Ping延时: 3.77毫秒
+
+IP Address: 125.227.70.180
+Port: 20734
+Region: TW
+Date: 2024-04-05 01:33:31
+
