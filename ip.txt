@@ -3552,3 +3552,31 @@ Port: 12313
 Region: HK
 Date: 2024-04-08 21:36:51
 
+Ping延时: 46.26毫秒
+
+IP Address: 140.112.93.111
+Port: 28795
+Region: TW
+Date: 2024-04-08 23:56:03
+
+Ping延时: 2.39毫秒
+
+IP Address: 43.156.67.241
+Port: 443
+Region: SG
+Date: 2024-04-08 23:58:13
+
+Ping延时: 2.21毫秒
+
+IP Address: 20.222.85.132
+Port: 34535
+Region: JP
+Date: 2024-04-09 00:01:15
+
+Ping延时: 2.33毫秒
+
+IP Address: 80.251.213.131
+Port: 443
+Region: US
+Date: 2024-04-09 00:02:07
+
