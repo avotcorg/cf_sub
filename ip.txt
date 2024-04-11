@@ -3769,3 +3769,17 @@ Port: 28233
 Region: TW
 Date: 2024-04-11 19:33:46
 
+Ping延时: 3.69毫秒
+
+IP Address: 140.112.93.111
+Port: 28795
+Region: TW
+Date: 2024-04-11 21:33:38
+
+Ping延时: 2.47毫秒
+
+IP Address: 34.87.124.80
+Port: 443
+Region: SG
+Date: 2024-04-11 21:35:24
+
