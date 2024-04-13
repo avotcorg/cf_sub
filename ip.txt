@@ -3867,3 +3867,10 @@ Port: 26705
 Region: US
 Date: 2024-04-13 05:30:51
 
+Ping延时: 3.54毫秒
+
+IP Address: 125.229.230.180
+Port: 28233
+Region: TW
+Date: 2024-04-13 09:33:34
+
