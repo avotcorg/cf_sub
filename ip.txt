@@ -3888,3 +3888,10 @@ Port: 2053
 Region: HK
 Date: 2024-04-13 21:35:11
 
+Ping延时: 3.3毫秒
+
+IP Address: 64.64.239.97
+Port: 443
+Region: US
+Date: 2024-04-13 21:35:59
+
