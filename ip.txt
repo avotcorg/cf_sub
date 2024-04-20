@@ -4308,3 +4308,10 @@ Port: 34237
 Region: JP
 Date: 2024-04-20 05:32:05
 
+Ping延时: 3.73毫秒
+
+IP Address: 34.80.86.119
+Port: 4443
+Region: TW
+Date: 2024-04-20 19:31:44
+
