@@ -4315,3 +4315,45 @@ Port: 4443
 Region: TW
 Date: 2024-04-20 19:31:44
 
+Ping延时: 3.22毫秒
+
+IP Address: 47.242.60.161
+Port: 443
+Region: HK
+Date: 2024-04-20 23:37:36
+
+Ping延时: 2.2毫秒
+
+IP Address: 59.125.68.209
+Port: 23555
+Region: TW
+Date: 2024-04-20 23:39:26
+
+Ping延时: 2.3毫秒
+
+IP Address: 34.87.124.80
+Port: 443
+Region: SG
+Date: 2024-04-20 23:41:19
+
+Ping延时: 2.12毫秒
+
+IP Address: 172.252.245.249
+Port: 34237
+Region: JP
+Date: 2024-04-20 23:43:29
+
+Ping延时: 2.15毫秒
+
+IP Address: 193.122.103.10
+Port: 45171
+Region: KR
+Date: 2024-04-20 23:46:20
+
+Ping延时: 2.11毫秒
+
+IP Address: 89.208.243.139
+Port: 10443
+Region: US
+Date: 2024-04-20 23:47:14
+
