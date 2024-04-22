@@ -4497,3 +4497,10 @@ Port: 20872
 Region: SG
 Date: 2024-04-22 15:31:43
 
+Ping延时: 4.62毫秒
+
+IP Address: 220.130.213.86
+Port: 23555
+Region: TW
+Date: 2024-04-22 19:31:59
+
