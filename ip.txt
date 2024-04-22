@@ -4504,3 +4504,10 @@ Port: 23555
 Region: TW
 Date: 2024-04-22 19:31:59
 
+Ping延时: 3.68毫秒
+
+IP Address: 211.72.156.11
+Port: 23555
+Region: TW
+Date: 2024-04-22 21:31:53
+
