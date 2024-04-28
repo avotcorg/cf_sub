@@ -5015,3 +5015,17 @@ Port: 8443
 Region: KR
 Date: 2024-04-28 17:47:42
 
+Ping延时: 3.55毫秒
+
+IP Address: 147.78.242.111
+Port: 31425
+Region: JP
+Date: 2024-04-28 19:32:32
+
+Ping延时: 2.32毫秒
+
+IP Address: 146.56.42.31
+Port: 48652
+Region: KR
+Date: 2024-04-28 19:33:08
+
