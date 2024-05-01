@@ -5295,3 +5295,10 @@ Port: 9527
 Region: KR
 Date: 2024-05-02 00:02:08
 
+Ping延时: 3.52毫秒
+
+IP Address: 107.165.195.221
+Port: 34237
+Region: JP
+Date: 2024-05-02 05:32:40
+
