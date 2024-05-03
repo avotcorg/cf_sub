@@ -5358,3 +5358,38 @@ Port: 34237
 Region: JP
 Date: 2024-05-03 17:32:17
 
+Ping延时: 3.37毫秒
+
+IP Address: 107.187.39.6
+Port: 34237
+Region: HK
+Date: 2024-05-03 23:39:21
+
+Ping延时: 2.32毫秒
+
+IP Address: 47.76.49.246
+Port: 2053
+Region: HK
+Date: 2024-05-03 23:46:43
+
+Ping延时: 2.3毫秒
+
+IP Address: 203.69.248.40
+Port: 27381
+Region: TW
+Date: 2024-05-03 23:48:52
+
+Ping延时: 2.25毫秒
+
+IP Address: 172.252.245.21
+Port: 34237
+Region: JP
+Date: 2024-05-03 23:53:11
+
+Ping延时: 2.25毫秒
+
+IP Address: 152.70.239.134
+Port: 34237
+Region: KR
+Date: 2024-05-03 23:53:47
+
