@@ -5533,3 +5533,10 @@ Port: 34237
 Region: US
 Date: 2024-05-05 23:54:22
 
+Ping延时: 3.75毫秒
+
+IP Address: 206.190.239.107
+Port: 8080
+Region: JP
+Date: 2024-05-06 09:32:55
+
