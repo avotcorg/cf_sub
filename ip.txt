@@ -5855,3 +5855,10 @@ Port: 15800
 Region: KR
 Date: 2024-05-11 03:30:38
 
+Ping延时: 10.78毫秒
+
+IP Address: 38.47.124.218
+Port: 4433
+Region: JP
+Date: 2024-05-11 13:32:41
+
