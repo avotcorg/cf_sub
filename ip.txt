@@ -5960,3 +5960,10 @@ Port: 3443
 Region: HK
 Date: 2024-05-13 03:35:45
 
+Ping延时: 3.67毫秒
+
+IP Address: 141.11.139.80
+Port: 18666
+Region: JP
+Date: 2024-05-13 07:32:40
+
