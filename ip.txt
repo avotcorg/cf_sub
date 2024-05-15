@@ -6128,3 +6128,17 @@ Port: 1003
 Region: KR
 Date: 2024-05-15 23:56:54
 
+Ping延时: 46.4毫秒
+
+IP Address: 193.111.31.76
+Port: 30001
+Region: JP
+Date: 2024-05-16 05:33:00
+
+Ping延时: 2.66毫秒
+
+IP Address: 173.242.121.248
+Port: 34237
+Region: US
+Date: 2024-05-16 05:33:50
+
