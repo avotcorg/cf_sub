@@ -6156,3 +6156,10 @@ Port: 12693
 Region: KR
 Date: 2024-05-16 11:39:51
 
+Ping延时: 3.89毫秒
+
+IP Address: 45.66.129.147
+Port: 46741
+Region: JP
+Date: 2024-05-16 21:32:59
+
