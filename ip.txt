@@ -6233,3 +6233,10 @@ Port: 34237
 Region: JP
 Date: 2024-05-17 23:46:34
 
+Ping延时: 63.9毫秒
+
+IP Address: 138.2.116.23
+Port: 1003
+Region: KR
+Date: 2024-05-18 01:30:52
+
