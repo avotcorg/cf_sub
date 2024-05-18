@@ -6282,3 +6282,10 @@ Port: 34237
 Region: KR
 Date: 2024-05-18 19:33:10
 
+Ping延时: 26.53毫秒
+
+IP Address: 38.47.96.181
+Port: 25314
+Region: JP
+Date: 2024-05-18 21:38:01
+
