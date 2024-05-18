@@ -6254,3 +6254,24 @@ Port: 30001
 Region: JP
 Date: 2024-05-18 15:40:07
 
+Ping延时: 41.39毫秒
+
+IP Address: 47.242.155.183
+Port: 2053
+Region: HK
+Date: 2024-05-18 17:39:10
+
+Ping延时: 2.37毫秒
+
+IP Address: 20.247.124.228
+Port: 55283
+Region: HK
+Date: 2024-05-18 17:42:01
+
+Ping延时: 2.3毫秒
+
+IP Address: 43.153.181.217
+Port: 443
+Region: JP
+Date: 2024-05-18 17:42:57
+
