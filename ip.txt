@@ -6247,3 +6247,10 @@ Port: 15238
 Region: KR
 Date: 2024-05-18 13:33:03
 
+Ping延时: 48.98毫秒
+
+IP Address: 193.111.31.76
+Port: 30001
+Region: JP
+Date: 2024-05-18 15:40:07
+
