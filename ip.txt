@@ -6359,3 +6359,10 @@ Port: 28756
 Region: KR
 Date: 2024-05-21 03:30:30
 
+Ping延时: 21.92毫秒
+
+IP Address: 173.242.113.15
+Port: 19480
+Region: US
+Date: 2024-05-21 05:30:52
+
