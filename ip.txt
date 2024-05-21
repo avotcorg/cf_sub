@@ -6366,3 +6366,10 @@ Port: 19480
 Region: US
 Date: 2024-05-21 05:30:52
 
+Ping延时: 3.32毫秒
+
+IP Address: 212.50.254.89
+Port: 443
+Region: JP
+Date: 2024-05-21 19:32:50
+
