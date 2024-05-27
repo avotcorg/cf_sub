@@ -6800,3 +6800,17 @@ Port: 23555
 Region: TW
 Date: 2024-05-28 03:32:00
 
+Ping延时: 28.8毫秒
+
+IP Address: 8.217.147.230
+Port: 2053
+Region: HK
+Date: 2024-05-28 05:37:46
+
+Ping延时: 2.62毫秒
+
+IP Address: 118.163.175.167
+Port: 23555
+Region: TW
+Date: 2024-05-28 05:39:44
+
