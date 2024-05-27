@@ -6730,3 +6730,10 @@ Port: 11659
 Region: KR
 Date: 2024-05-27 09:37:59
 
+Ping延时: 40.66毫秒
+
+IP Address: 199.19.110.41
+Port: 59095
+Region: US
+Date: 2024-05-27 19:30:54
+
