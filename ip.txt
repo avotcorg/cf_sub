@@ -6954,3 +6954,10 @@ Port: 4443
 Region: TW
 Date: 2024-05-29 15:32:46
 
+Ping延时: 27.28毫秒
+
+IP Address: 125.227.213.107
+Port: 23555
+Region: TW
+Date: 2024-05-29 19:32:02
+
