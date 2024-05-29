@@ -6947,3 +6947,10 @@ Port: 2053
 Region: HK
 Date: 2024-05-29 11:31:52
 
+Ping延时: 37.44毫秒
+
+IP Address: 34.80.86.119
+Port: 4443
+Region: TW
+Date: 2024-05-29 15:32:46
+
