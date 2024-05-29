@@ -6961,3 +6961,17 @@ Port: 23555
 Region: TW
 Date: 2024-05-29 19:32:02
 
+Ping延时: 29.99毫秒
+
+IP Address: 34.80.86.119
+Port: 4443
+Region: TW
+Date: 2024-05-29 21:31:58
+
+Ping延时: 2.34毫秒
+
+IP Address: 20.37.114.66
+Port: 34237
+Region: JP
+Date: 2024-05-29 21:35:46
+
