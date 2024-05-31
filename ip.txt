@@ -7038,3 +7038,10 @@ Port: 34237
 Region: KR
 Date: 2024-05-31 15:38:42
 
+Ping延时: 33.89毫秒
+
+IP Address: 152.70.245.66
+Port: 12693
+Region: KR
+Date: 2024-05-31 17:30:34
+
