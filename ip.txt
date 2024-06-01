@@ -7080,3 +7080,10 @@ Port: 49248
 Region: KR
 Date: 2024-05-31 23:45:24
 
+Ping延时: 32.38毫秒
+
+IP Address: 60.249.89.74
+Port: 23555
+Region: TW
+Date: 2024-06-01 13:31:59
+
