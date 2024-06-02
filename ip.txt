@@ -7143,3 +7143,10 @@ Port: 23555
 Region: TW
 Date: 2024-06-02 15:45:36
 
+Ping延时: 64.46毫秒
+
+IP Address: 154.204.56.238
+Port: 34237
+Region: HK
+Date: 2024-06-02 19:37:08
+
