@@ -7367,3 +7367,10 @@ Port: 20017
 Region: KR
 Date: 2024-06-04 23:48:28
 
+Ping延时: 18.24毫秒
+
+IP Address: 185.81.28.178
+Port: 31700
+Region: SG
+Date: 2024-06-05 03:31:37
+
