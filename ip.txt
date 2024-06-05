@@ -7416,3 +7416,31 @@ Port: 53149
 Region: SG
 Date: 2024-06-05 13:31:18
 
+Ping延时: 35.52毫秒
+
+IP Address: 211.72.156.10
+Port: 23555
+Region: TW
+Date: 2024-06-05 23:37:58
+
+Ping延时: 2.39毫秒
+
+IP Address: 43.156.56.22
+Port: 7676
+Region: SG
+Date: 2024-06-05 23:39:26
+
+Ping延时: 2.28毫秒
+
+IP Address: 206.190.238.147
+Port: 80
+Region: JP
+Date: 2024-06-05 23:43:07
+
+Ping延时: 2.3毫秒
+
+IP Address: 173.242.123.147
+Port: 443
+Region: US
+Date: 2024-06-05 23:44:38
+
