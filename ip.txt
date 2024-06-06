@@ -7472,3 +7472,10 @@ Port: 53149
 Region: SG
 Date: 2024-06-06 09:31:26
 
+Ping延时: 28.9毫秒
+
+IP Address: 154.9.247.3
+Port: 27061
+Region: HK
+Date: 2024-06-06 13:35:29
+
