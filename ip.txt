@@ -7479,3 +7479,10 @@ Port: 27061
 Region: HK
 Date: 2024-06-06 13:35:29
 
+Ping延时: 32.57毫秒
+
+IP Address: 61.222.202.100
+Port: 23555
+Region: TW
+Date: 2024-06-06 13:37:25
+
