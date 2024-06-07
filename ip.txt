@@ -7528,3 +7528,10 @@ Port: 35365
 Region: US
 Date: 2024-06-07 05:30:52
 
+Ping延时: 15.97毫秒
+
+IP Address: 61.222.202.100
+Port: 23555
+Region: TW
+Date: 2024-06-07 17:31:50
+
