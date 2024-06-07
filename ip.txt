@@ -7584,3 +7584,10 @@ Port: 12315
 Region: US
 Date: 2024-06-07 23:46:49
 
+Ping延时: 35.24毫秒
+
+IP Address: 150.66.24.104
+Port: 34237
+Region: JP
+Date: 2024-06-08 07:33:08
+
