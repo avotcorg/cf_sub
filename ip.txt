@@ -7675,3 +7675,10 @@ Port: 2054
 Region: US
 Date: 2024-06-09 23:51:37
 
+Ping延时: 98.5毫秒
+
+IP Address: 23.158.24.65
+Port: 24612
+Region: JP
+Date: 2024-06-10 05:33:15
+
