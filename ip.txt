@@ -7759,3 +7759,10 @@ Port: 34237
 Region: SG
 Date: 2024-06-11 09:31:30
 
+Ping延时: 27.69毫秒
+
+IP Address: 34.80.227.7
+Port: 9998
+Region: TW
+Date: 2024-06-11 17:31:04
+
