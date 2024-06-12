@@ -7836,3 +7836,17 @@ Port: 40809
 Region: SG
 Date: 2024-06-12 23:36:12
 
+Ping延时: 43.92毫秒
+
+IP Address: 45.38.209.100
+Port: 10005
+Region: JP
+Date: 2024-06-12 23:38:38
+
+Ping延时: 2.39毫秒
+
+IP Address: 89.208.242.68
+Port: 40825
+Region: US
+Date: 2024-06-12 23:39:30
+
