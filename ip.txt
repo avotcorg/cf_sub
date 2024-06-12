@@ -7850,3 +7850,10 @@ Port: 40825
 Region: US
 Date: 2024-06-12 23:39:30
 
+Ping延时: 33.88毫秒
+
+IP Address: 45.38.209.100
+Port: 10002
+Region: JP
+Date: 2024-06-13 07:32:11
+
