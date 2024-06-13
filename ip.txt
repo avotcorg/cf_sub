@@ -7864,3 +7864,10 @@ Port: 24167
 Region: JP
 Date: 2024-06-13 09:32:14
 
+Ping延时: 23.09毫秒
+
+IP Address: 193.123.239.18
+Port: 49248
+Region: KR
+Date: 2024-06-13 13:30:34
+
