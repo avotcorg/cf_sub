@@ -7857,3 +7857,10 @@ Port: 10002
 Region: JP
 Date: 2024-06-13 07:32:11
 
+Ping延时: 19.18毫秒
+
+IP Address: 172.84.93.56
+Port: 24167
+Region: JP
+Date: 2024-06-13 09:32:14
+
