@@ -7913,3 +7913,10 @@ Port: 35365
 Region: US
 Date: 2024-06-13 23:40:19
 
+Ping延时: 35.45毫秒
+
+IP Address: 38.47.125.193
+Port: 34237
+Region: JP
+Date: 2024-06-14 03:32:20
+
