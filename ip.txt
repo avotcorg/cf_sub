@@ -7934,3 +7934,10 @@ Port: 8900
 Region: SG
 Date: 2024-06-14 09:33:29
 
+Ping延时: 63.6毫秒
+
+IP Address: 64.64.224.83
+Port: 26639
+Region: US
+Date: 2024-06-14 15:30:44
+
