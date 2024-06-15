@@ -7990,3 +7990,10 @@ Port: 16617
 Region: KR
 Date: 2024-06-15 11:30:35
 
+Ping延时: 48.34毫秒
+
+IP Address: 45.38.209.100
+Port: 10005
+Region: JP
+Date: 2024-06-15 17:32:14
+
