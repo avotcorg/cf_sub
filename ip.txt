@@ -8046,3 +8046,10 @@ Port: 20774
 Region: TW
 Date: 2024-06-16 05:31:13
 
+Ping延时: 18.0毫秒
+
+IP Address: 47.243.245.171
+Port: 25939
+Region: HK
+Date: 2024-06-16 07:33:00
+
