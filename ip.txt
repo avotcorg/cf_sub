@@ -8088,3 +8088,10 @@ Port: 10005
 Region: JP
 Date: 2024-06-17 01:32:17
 
+Ping延时: 35.07毫秒
+
+IP Address: 43.134.166.213
+Port: 10444
+Region: SG
+Date: 2024-06-17 05:33:37
+
