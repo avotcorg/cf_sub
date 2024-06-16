@@ -8081,3 +8081,10 @@ Port: 25111
 Region: US
 Date: 2024-06-16 23:38:51
 
+Ping延时: 31.78毫秒
+
+IP Address: 45.38.209.100
+Port: 10005
+Region: JP
+Date: 2024-06-17 01:32:17
+
