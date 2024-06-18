@@ -8144,3 +8144,10 @@ Port: 13042
 Region: US
 Date: 2024-06-18 07:30:46
 
+Ping延时: 37.42毫秒
+
+IP Address: 34.84.20.87
+Port: 12529
+Region: JP
+Date: 2024-06-18 21:32:58
+
