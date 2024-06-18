@@ -8158,3 +8158,10 @@ Port: 10444
 Region: SG
 Date: 2024-06-18 23:34:55
 
+Ping延时: 3.31毫秒
+
+IP Address: 199.180.112.107
+Port: 18712
+Region: US
+Date: 2024-06-18 23:35:55
+
