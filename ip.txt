@@ -8200,3 +8200,10 @@ Port: 34237
 Region: JP
 Date: 2024-06-19 23:39:17
 
+Ping延时: 3.4毫秒
+
+IP Address: 34.80.86.119
+Port: 4443
+Region: TW
+Date: 2024-06-20 09:31:03
+
