@@ -8214,3 +8214,10 @@ Port: 33914
 Region: HK
 Date: 2024-06-20 15:31:29
 
+Ping延时: 3.65毫秒
+
+IP Address: 152.70.245.66
+Port: 12693
+Region: KR
+Date: 2024-06-20 21:30:36
+
