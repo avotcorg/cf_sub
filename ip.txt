@@ -8249,3 +8249,10 @@ Port: 11223
 Region: JP
 Date: 2024-06-20 23:39:23
 
+Ping延时: 3.47毫秒
+
+IP Address: 132.145.91.226
+Port: 15238
+Region: KR
+Date: 2024-06-21 21:30:49
+
