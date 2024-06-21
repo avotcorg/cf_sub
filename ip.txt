@@ -8270,3 +8270,10 @@ Port: 58000
 Region: SG
 Date: 2024-06-21 23:37:18
 
+Ping延时: 3.35毫秒
+
+IP Address: 152.70.245.66
+Port: 12693
+Region: KR
+Date: 2024-06-21 23:38:00
+
