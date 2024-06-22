@@ -8305,3 +8305,10 @@ Port: 27993
 Region: US
 Date: 2024-06-22 15:31:36
 
+Ping延时: 3.16毫秒
+
+IP Address: 172.84.92.242
+Port: 34237
+Region: JP
+Date: 2024-06-22 19:32:39
+
