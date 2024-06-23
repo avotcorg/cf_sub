@@ -8347,3 +8347,10 @@ Port: 2053
 Region: HK
 Date: 2024-06-23 23:33:24
 
+Ping延时: 3.02毫秒
+
+IP Address: 152.70.245.66
+Port: 12693
+Region: KR
+Date: 2024-06-23 23:37:35
+
