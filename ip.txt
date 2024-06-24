@@ -8368,3 +8368,10 @@ Port: 6868
 Region: HK
 Date: 2024-06-24 13:32:54
 
+Ping延时: 3.61毫秒
+
+IP Address: 38.47.124.79
+Port: 55296
+Region: JP
+Date: 2024-06-24 15:32:37
+
