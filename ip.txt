@@ -8375,3 +8375,17 @@ Port: 55296
 Region: JP
 Date: 2024-06-24 15:32:37
 
+Ping延时: 3.12毫秒
+
+IP Address: 47.243.245.171
+Port: 25939
+Region: HK
+Date: 2024-06-24 17:35:46
+
+Ping延时: 2.26毫秒
+
+IP Address: 129.154.223.89
+Port: 15800
+Region: KR
+Date: 2024-06-24 17:36:26
+
