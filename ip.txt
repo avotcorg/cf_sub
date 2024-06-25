@@ -8452,3 +8452,17 @@ Port: 823
 Region: TW
 Date: 2024-06-25 23:34:10
 
+Ping延时: 3.22毫秒
+
+IP Address: 150.109.94.144
+Port: 8900
+Region: SG
+Date: 2024-06-25 23:37:35
+
+Ping延时: 2.43毫秒
+
+IP Address: 146.56.42.31
+Port: 48652
+Region: KR
+Date: 2024-06-25 23:38:19
+
