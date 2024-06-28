@@ -8592,3 +8592,17 @@ Port: 8003
 Region: HK
 Date: 2024-06-28 23:31:21
 
+Ping延时: 3.31毫秒
+
+IP Address: 45.78.57.229
+Port: 23566
+Region: JP
+Date: 2024-06-28 23:37:34
+
+Ping延时: 2.44毫秒
+
+IP Address: 146.56.42.31
+Port: 48652
+Region: KR
+Date: 2024-06-28 23:38:22
+
