@@ -8641,3 +8641,10 @@ Port: 21006
 Region: US
 Date: 2024-06-29 23:37:10
 
+Ping延时: 3.48毫秒
+
+IP Address: 172.84.92.108
+Port: 42304
+Region: JP
+Date: 2024-06-30 01:32:55
+
