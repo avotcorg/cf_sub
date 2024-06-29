@@ -8627,3 +8627,17 @@ Port: 8900
 Region: SG
 Date: 2024-06-29 23:34:38
 
+Ping延时: 3.41毫秒
+
+IP Address: 152.70.245.66
+Port: 12693
+Region: KR
+Date: 2024-06-29 23:36:07
+
+Ping延时: 2.45毫秒
+
+IP Address: 67.230.173.106
+Port: 21006
+Region: US
+Date: 2024-06-29 23:37:10
+
