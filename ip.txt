@@ -8648,3 +8648,10 @@ Port: 42304
 Region: JP
 Date: 2024-06-30 01:32:55
 
+Ping延时: 3.14毫秒
+
+IP Address: 45.159.50.60
+Port: 50300
+Region: JP
+Date: 2024-06-30 17:33:00
+
