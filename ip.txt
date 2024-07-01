@@ -8697,3 +8697,17 @@ Port: 8003
 Region: HK
 Date: 2024-07-01 23:31:22
 
+Ping延时: 3.36毫秒
+
+IP Address: 23.106.129.150
+Port: 9080
+Region: JP
+Date: 2024-07-01 23:37:49
+
+Ping延时: 2.24毫秒
+
+IP Address: 152.70.239.134
+Port: 34237
+Region: KR
+Date: 2024-07-01 23:38:33
+
