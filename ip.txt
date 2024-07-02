@@ -8732,3 +8732,17 @@ Port: 31103
 Region: TW
 Date: 2024-07-02 23:35:15
 
+Ping延时: 3.33毫秒
+
+IP Address: 206.190.236.96
+Port: 15393
+Region: JP
+Date: 2024-07-02 23:41:08
+
+Ping延时: 2.23毫秒
+
+IP Address: 146.56.171.182
+Port: 11659
+Region: KR
+Date: 2024-07-02 23:41:55
+
