@@ -8844,3 +8844,10 @@ Port: 45929
 Region: KR
 Date: 2024-07-04 23:44:06
 
+Ping延时: 3.45毫秒
+
+IP Address: 103.170.233.160
+Port: 4308
+Region: JP
+Date: 2024-07-05 03:32:17
+
