@@ -8767,3 +8767,10 @@ Port: 2053
 Region: HK
 Date: 2024-07-03 23:32:31
 
+Ping延时: 3.59毫秒
+
+IP Address: 192.243.124.55
+Port: 13391
+Region: JP
+Date: 2024-07-04 17:32:48
+
