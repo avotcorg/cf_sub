@@ -8900,3 +8900,10 @@ Port: 47590
 Region: KR
 Date: 2024-07-05 23:40:45
 
+Ping延时: 3.52毫秒
+
+IP Address: 34.80.80.147
+Port: 31103
+Region: TW
+Date: 2024-07-06 13:31:06
+
