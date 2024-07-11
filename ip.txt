@@ -9040,3 +9040,10 @@ Port: 443
 Region: US
 Date: 2024-07-11 23:35:41
 
+Ping延时: 3.37毫秒
+
+IP Address: 141.11.139.80
+Port: 18666
+Region: JP
+Date: 2024-07-12 05:32:25
+
