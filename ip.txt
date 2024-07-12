@@ -9068,3 +9068,10 @@ Port: 23555
 Region: TW
 Date: 2024-07-12 15:31:11
 
+Ping延时: 3.41毫秒
+
+IP Address: 38.47.121.241
+Port: 31981
+Region: JP
+Date: 2024-07-12 21:32:48
+
