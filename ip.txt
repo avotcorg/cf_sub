@@ -9243,3 +9243,10 @@ Port: 20017
 Region: KR
 Date: 2024-07-15 11:31:10
 
+Ping延时: 3.57毫秒
+
+IP Address: 35.201.236.40
+Port: 10501
+Region: TW
+Date: 2024-07-15 13:31:11
+
