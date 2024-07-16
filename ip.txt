@@ -9313,3 +9313,10 @@ Port: 38548
 Region: US
 Date: 2024-07-16 13:30:56
 
+Ping延时: 3.57毫秒
+
+IP Address: 45.159.50.60
+Port: 50300
+Region: JP
+Date: 2024-07-16 21:33:04
+
