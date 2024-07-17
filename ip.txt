@@ -9397,3 +9397,10 @@ Port: 20017
 Region: KR
 Date: 2024-07-17 21:30:41
 
+Ping延时: 4.93毫秒
+
+IP Address: 38.147.188.171
+Port: 8005
+Region: HK
+Date: 2024-07-17 23:31:15
+
