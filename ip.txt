@@ -9446,3 +9446,10 @@ Port: 20017
 Region: KR
 Date: 2024-07-18 09:31:13
 
+Ping延时: 3.44毫秒
+
+IP Address: 20.205.131.206
+Port: 54043
+Region: HK
+Date: 2024-07-18 13:31:20
+
