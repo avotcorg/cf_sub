@@ -9705,3 +9705,10 @@ Port: 12693
 Region: KR
 Date: 2024-07-21 23:36:38
 
+Ping延时: 3.9毫秒
+
+IP Address: 211.22.243.164
+Port: 11772
+Region: TW
+Date: 2024-07-22 05:31:47
+
