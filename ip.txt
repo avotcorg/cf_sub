@@ -9712,3 +9712,17 @@ Port: 11772
 Region: TW
 Date: 2024-07-22 05:31:47
 
+Ping延时: 4.03毫秒
+
+IP Address: 211.75.243.91
+Port: 16764
+Region: TW
+Date: 2024-07-22 07:31:51
+
+Ping延时: 2.37毫秒
+
+IP Address: 150.109.94.144
+Port: 8900
+Region: SG
+Date: 2024-07-22 07:34:33
+
