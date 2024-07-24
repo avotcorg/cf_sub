@@ -9866,3 +9866,10 @@ Port: 46832
 Region: TW
 Date: 2024-07-24 17:31:38
 
+Ping延时: 8.16毫秒
+
+IP Address: 34.97.168.202
+Port: 56241
+Region: JP
+Date: 2024-07-24 19:32:53
+
