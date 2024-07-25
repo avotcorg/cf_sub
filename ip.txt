@@ -9929,3 +9929,10 @@ Port: 11417
 Region: HK
 Date: 2024-07-25 21:31:11
 
+Ping延时: 4.16毫秒
+
+IP Address: 20.78.32.117
+Port: 38323
+Region: JP
+Date: 2024-07-25 21:35:49
+
