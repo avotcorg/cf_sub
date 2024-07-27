@@ -10048,3 +10048,10 @@ Port: 10392
 Region: SG
 Date: 2024-07-27 17:33:01
 
+Ping延时: 3.64毫秒
+
+IP Address: 34.97.168.202
+Port: 56241
+Region: JP
+Date: 2024-07-27 19:33:44
+
