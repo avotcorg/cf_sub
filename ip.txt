@@ -10391,3 +10391,17 @@ Port: 2053
 Region: HK
 Date: 2024-08-02 23:34:01
 
+Ping延时: 38.98毫秒
+
+IP Address: 195.245.229.69
+Port: 8080
+Region: JP
+Date: 2024-08-02 23:40:00
+
+Ping延时: 2.43毫秒
+
+IP Address: 152.70.245.66
+Port: 12693
+Region: KR
+Date: 2024-08-02 23:41:41
+
