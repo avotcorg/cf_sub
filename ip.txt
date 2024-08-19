@@ -11308,3 +11308,10 @@ Port: 3000
 Region: JP
 Date: 2024-08-19 13:41:41
 
+Ping延时: 21.46毫秒
+
+IP Address: 61.220.65.189
+Port: 27114
+Region: TW
+Date: 2024-08-19 15:31:26
+
