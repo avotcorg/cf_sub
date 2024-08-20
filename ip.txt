@@ -11532,3 +11532,10 @@ Port: 31137
 Region: KR
 Date: 2024-08-21 04:36:29
 
+Ping延时: 48.2毫秒
+
+IP Address: 34.80.53.75
+Port: 8443
+Region: TW
+Date: 2024-08-21 07:31:14
+
