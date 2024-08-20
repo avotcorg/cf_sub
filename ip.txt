@@ -11399,3 +11399,10 @@ Port: 20017
 Region: KR
 Date: 2024-08-20 11:30:48
 
+Ping延时: 18.43毫秒
+
+IP Address: 146.56.146.7
+Port: 21713
+Region: KR
+Date: 2024-08-20 13:30:50
+
