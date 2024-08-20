@@ -11392,3 +11392,10 @@ Port: 34237
 Region: JP
 Date: 2024-08-20 09:33:28
 
+Ping延时: 3.57毫秒
+
+IP Address: 146.56.37.60
+Port: 20017
+Region: KR
+Date: 2024-08-20 11:30:48
+
