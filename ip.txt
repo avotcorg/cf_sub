@@ -11616,3 +11616,17 @@ Port: 51360
 Region: TW
 Date: 2024-08-22 23:34:09
 
+Ping延时: 37.96毫秒
+
+IP Address: 152.70.245.66
+Port: 12693
+Region: KR
+Date: 2024-08-22 23:37:36
+
+Ping延时: 2.58毫秒
+
+IP Address: 216.24.179.169
+Port: 56567
+Region: US
+Date: 2024-08-22 23:38:36
+
