@@ -11707,3 +11707,17 @@ Port: 4835
 Region: HK
 Date: 2024-08-24 15:31:42
 
+Ping延时: 33.08毫秒
+
+IP Address: 35.229.227.97
+Port: 59793
+Region: TW
+Date: 2024-08-24 19:31:35
+
+Ping延时: 2.17毫秒
+
+IP Address: 38.47.124.218
+Port: 4433
+Region: JP
+Date: 2024-08-24 19:34:14
+
