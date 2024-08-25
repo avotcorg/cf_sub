@@ -181,3 +181,10 @@ Port: 17062
 Region: US
 Date: 2024-08-25 23:49:22
 
+Ping延时: 43.13毫秒
+
+IP Address: 38.47.121.93
+Port: 8081
+Region: JP
+Date: 2024-08-26 05:32:41
+
