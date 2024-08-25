@@ -188,3 +188,10 @@ Port: 8081
 Region: JP
 Date: 2024-08-26 05:32:41
 
+Ping延时: 23.89毫秒
+
+IP Address: 119.28.42.63
+Port: 3069
+Region: HK
+Date: 2024-08-26 07:32:46
+
