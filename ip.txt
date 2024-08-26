@@ -216,3 +216,45 @@ Port: 14880
 Region: HK
 Date: 2024-08-26 23:34:09
 
+Ping延时: 48.06毫秒
+
+IP Address: 47.243.243.14
+Port: 2053
+Region: HK
+Date: 2024-08-26 23:40:01
+
+Ping延时: 2.35毫秒
+
+IP Address: 60.248.63.88
+Port: 12832
+Region: TW
+Date: 2024-08-26 23:43:05
+
+Ping延时: 2.28毫秒
+
+IP Address: 43.156.56.22
+Port: 7676
+Region: SG
+Date: 2024-08-26 23:45:32
+
+Ping延时: 2.39毫秒
+
+IP Address: 212.50.247.70
+Port: 8848
+Region: JP
+Date: 2024-08-26 23:49:22
+
+Ping延时: 2.51毫秒
+
+IP Address: 129.154.223.89
+Port: 15800
+Region: KR
+Date: 2024-08-26 23:50:26
+
+Ping延时: 2.47毫秒
+
+IP Address: 154.17.27.8
+Port: 48655
+Region: US
+Date: 2024-08-26 23:51:26
+
