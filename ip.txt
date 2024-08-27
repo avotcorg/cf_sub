@@ -286,3 +286,10 @@ Port: 2053
 Region: HK
 Date: 2024-08-27 09:34:21
 
+Ping延时: 62.37毫秒
+
+IP Address: 47.75.193.125
+Port: 27002
+Region: HK
+Date: 2024-08-27 11:37:12
+
