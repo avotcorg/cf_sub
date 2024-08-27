@@ -300,3 +300,10 @@ Port: 28
 Region: HK
 Date: 2024-08-27 15:33:28
 
+Ping延时: 3.34毫秒
+
+IP Address: 43.135.44.101
+Port: 30002
+Region: HK
+Date: 2024-08-27 21:33:52
+
