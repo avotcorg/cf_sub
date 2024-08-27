@@ -307,3 +307,10 @@ Port: 30002
 Region: HK
 Date: 2024-08-27 21:33:52
 
+Ping延时: 47.66毫秒
+
+IP Address: 156.251.180.181
+Port: 21698
+Region: HK
+Date: 2024-08-27 23:34:19
+
