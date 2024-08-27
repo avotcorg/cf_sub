@@ -293,3 +293,10 @@ Port: 27002
 Region: HK
 Date: 2024-08-27 11:37:12
 
+Ping延时: 25.21毫秒
+
+IP Address: 203.198.16.117
+Port: 28
+Region: HK
+Date: 2024-08-27 15:33:28
+
