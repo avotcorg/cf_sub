@@ -349,3 +349,10 @@ Port: 27002
 Region: HK
 Date: 2024-08-28 09:38:30
 
+Ping延时: 26.87毫秒
+
+IP Address: 13.78.119.61
+Port: 32081
+Region: JP
+Date: 2024-08-28 11:32:37
+
