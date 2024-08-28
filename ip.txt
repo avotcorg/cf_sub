@@ -384,3 +384,17 @@ Port: 81
 Region: HK
 Date: 2024-08-28 21:34:13
 
+Ping延时: 26.58毫秒
+
+IP Address: 47.242.147.15
+Port: 40680
+Region: HK
+Date: 2024-08-28 21:43:35
+
+Ping延时: 2.43毫秒
+
+IP Address: 193.123.232.127
+Port: 31137
+Region: KR
+Date: 2024-08-28 21:44:24
+
