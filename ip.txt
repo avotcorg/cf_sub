@@ -370,3 +370,10 @@ Port: 38111
 Region: SG
 Date: 2024-08-28 15:32:34
 
+Ping延时: 39.29毫秒
+
+IP Address: 35.221.131.178
+Port: 10240
+Region: TW
+Date: 2024-08-28 19:31:33
+
