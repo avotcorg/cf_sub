@@ -461,3 +461,10 @@ Port: 2004
 Region: TW
 Date: 2024-08-29 13:35:58
 
+Ping延时: 26.19毫秒
+
+IP Address: 131.186.20.178
+Port: 27194
+Region: KR
+Date: 2024-08-29 13:38:53
+
