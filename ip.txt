@@ -447,3 +447,17 @@ Port: 10511
 Region: US
 Date: 2024-08-29 07:30:49
 
+Ping延时: 25.3毫秒
+
+IP Address: 203.198.16.117
+Port: 28
+Region: HK
+Date: 2024-08-29 13:33:55
+
+Ping延时: 2.38毫秒
+
+IP Address: 60.249.89.73
+Port: 2004
+Region: TW
+Date: 2024-08-29 13:35:58
+
