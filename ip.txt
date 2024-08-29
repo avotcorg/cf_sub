@@ -482,3 +482,10 @@ Port: 443
 Region: US
 Date: 2024-08-29 19:30:50
 
+Ping延时: 30.67毫秒
+
+IP Address: 1.34.89.47
+Port: 13749
+Region: TW
+Date: 2024-08-29 21:33:09
+
