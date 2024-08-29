@@ -468,3 +468,10 @@ Port: 27194
 Region: KR
 Date: 2024-08-29 13:38:53
 
+Ping延时: 25.66毫秒
+
+IP Address: 20.222.234.168
+Port: 41553
+Region: JP
+Date: 2024-08-29 15:35:05
+
