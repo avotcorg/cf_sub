@@ -489,3 +489,38 @@ Port: 13749
 Region: TW
 Date: 2024-08-29 21:33:09
 
+Ping延时: 22.7毫秒
+
+IP Address: 163.53.246.105
+Port: 25930
+Region: HK
+Date: 2024-08-29 23:36:29
+
+Ping延时: 2.56毫秒
+
+IP Address: 47.242.66.73
+Port: 55407
+Region: HK
+Date: 2024-08-29 23:44:33
+
+Ping延时: 2.49毫秒
+
+IP Address: 60.248.63.88
+Port: 12832
+Region: TW
+Date: 2024-08-29 23:46:49
+
+Ping延时: 2.39毫秒
+
+IP Address: 178.157.60.84
+Port: 19781
+Region: JP
+Date: 2024-08-29 23:52:00
+
+Ping延时: 2.33毫秒
+
+IP Address: 67.230.169.127
+Port: 41250
+Region: US
+Date: 2024-08-29 23:53:29
+
