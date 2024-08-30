@@ -566,3 +566,10 @@ Port: 52314
 Region: KR
 Date: 2024-08-30 23:51:16
 
+Ping延时: 36.28毫秒
+
+IP Address: 20.222.234.168
+Port: 41553
+Region: JP
+Date: 2024-08-31 05:32:52
+
