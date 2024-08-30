@@ -531,3 +531,10 @@ Port: 28
 Region: HK
 Date: 2024-08-30 09:34:24
 
+Ping延时: 8.88毫秒
+
+IP Address: 47.242.147.15
+Port: 56277
+Region: HK
+Date: 2024-08-30 15:38:08
+
