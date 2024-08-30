@@ -538,3 +538,10 @@ Port: 56277
 Region: HK
 Date: 2024-08-30 15:38:08
 
+Ping延时: 8.43毫秒
+
+IP Address: 212.50.244.253
+Port: 10443
+Region: JP
+Date: 2024-08-30 17:33:09
+
