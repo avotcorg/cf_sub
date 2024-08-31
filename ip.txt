@@ -587,3 +587,38 @@ Port: 990
 Region: JP
 Date: 2024-08-31 21:33:15
 
+Ping延时: 77.46毫秒
+
+IP Address: 35.220.217.64
+Port: 13778
+Region: HK
+Date: 2024-08-31 23:37:36
+
+Ping延时: 2.34毫秒
+
+IP Address: 47.242.179.190
+Port: 19802
+Region: HK
+Date: 2024-08-31 23:45:41
+
+Ping延时: 2.25毫秒
+
+IP Address: 122.99.28.174
+Port: 12067
+Region: TW
+Date: 2024-08-31 23:48:37
+
+Ping延时: 2.26毫秒
+
+IP Address: 212.50.251.234
+Port: 35515
+Region: JP
+Date: 2024-08-31 23:53:32
+
+Ping延时: 2.25毫秒
+
+IP Address: 131.186.20.178
+Port: 27194
+Region: KR
+Date: 2024-08-31 23:54:05
+
