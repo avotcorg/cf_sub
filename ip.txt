@@ -622,3 +622,17 @@ Port: 27194
 Region: KR
 Date: 2024-08-31 23:54:05
 
+Ping延时: 13.52毫秒
+
+IP Address: 140.238.8.194
+Port: 15800
+Region: KR
+Date: 2024-09-01 05:30:38
+
+Ping延时: 2.5毫秒
+
+IP Address: 45.59.187.65
+Port: 443
+Region: US
+Date: 2024-09-01 05:31:26
+
