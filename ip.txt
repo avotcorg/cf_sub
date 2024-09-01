@@ -643,3 +643,10 @@ Port: 443
 Region: KR
 Date: 2024-09-01 07:30:39
 
+Ping延时: 18.64毫秒
+
+IP Address: 140.238.8.194
+Port: 15800
+Region: KR
+Date: 2024-09-01 09:30:43
+
