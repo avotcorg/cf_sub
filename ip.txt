@@ -727,3 +727,10 @@ Port: 725
 Region: SG
 Date: 2024-09-02 05:32:06
 
+Ping延时: 17.62毫秒
+
+IP Address: 203.198.16.117
+Port: 28
+Region: HK
+Date: 2024-09-02 07:34:00
+
