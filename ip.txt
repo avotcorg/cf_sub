@@ -664,3 +664,17 @@ Port: 46411
 Region: HK
 Date: 2024-09-01 17:37:16
 
+Ping延时: 13.34毫秒
+
+IP Address: 101.32.247.126
+Port: 725
+Region: SG
+Date: 2024-09-01 21:31:57
+
+Ping延时: 2.41毫秒
+
+IP Address: 193.122.115.74
+Port: 52314
+Region: KR
+Date: 2024-09-01 21:32:31
+
