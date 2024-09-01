@@ -650,3 +650,10 @@ Port: 15800
 Region: KR
 Date: 2024-09-01 09:30:43
 
+Ping延时: 24.11毫秒
+
+IP Address: 193.122.102.79
+Port: 18161
+Region: KR
+Date: 2024-09-01 15:30:51
+
