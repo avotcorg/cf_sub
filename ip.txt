@@ -846,3 +846,31 @@ Port: 3069
 Region: HK
 Date: 2024-09-04 23:34:10
 
+Ping延时: 39.85毫秒
+
+IP Address: 47.238.154.106
+Port: 23412
+Region: HK
+Date: 2024-09-04 23:41:22
+
+Ping延时: 2.35毫秒
+
+IP Address: 60.249.89.73
+Port: 2004
+Region: TW
+Date: 2024-09-04 23:43:22
+
+Ping延时: 2.28毫秒
+
+IP Address: 43.128.67.203
+Port: 30658
+Region: SG
+Date: 2024-09-04 23:45:18
+
+Ping延时: 2.26毫秒
+
+IP Address: 146.56.110.217
+Port: 2186
+Region: KR
+Date: 2024-09-04 23:45:54
+
