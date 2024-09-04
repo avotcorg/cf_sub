@@ -839,3 +839,10 @@ Port: 35515
 Region: JP
 Date: 2024-09-04 21:33:16
 
+Ping延时: 40.22毫秒
+
+IP Address: 119.28.42.63
+Port: 3069
+Region: HK
+Date: 2024-09-04 23:34:10
+
