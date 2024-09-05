@@ -909,3 +909,24 @@ Port: 26778
 Region: KR
 Date: 2024-09-05 07:30:33
 
+Ping延时: 31.06毫秒
+
+IP Address: 47.243.106.124
+Port: 59384
+Region: HK
+Date: 2024-09-05 09:37:04
+
+Ping延时: 2.38毫秒
+
+IP Address: 206.190.234.92
+Port: 58504
+Region: JP
+Date: 2024-09-05 09:40:12
+
+Ping延时: 2.27毫秒
+
+IP Address: 193.122.102.79
+Port: 18161
+Region: KR
+Date: 2024-09-05 09:40:45
+
