@@ -944,3 +944,17 @@ Port: 443
 Region: TW
 Date: 2024-09-05 19:38:31
 
+Ping延时: 34.02毫秒
+
+IP Address: 152.67.192.243
+Port: 2296
+Region: KR
+Date: 2024-09-05 21:30:33
+
+Ping延时: 2.59毫秒
+
+IP Address: 199.19.109.139
+Port: 5000
+Region: US
+Date: 2024-09-05 21:31:22
+
