@@ -1014,3 +1014,10 @@ Port: 39972
 Region: KR
 Date: 2024-09-06 05:32:42
 
+Ping延时: 22.87毫秒
+
+IP Address: 140.238.8.194
+Port: 15800
+Region: KR
+Date: 2024-09-06 07:30:34
+
