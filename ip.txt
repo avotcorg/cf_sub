@@ -1000,3 +1000,17 @@ Port: 18161
 Region: KR
 Date: 2024-09-06 01:30:35
 
+Ping延时: 25.56毫秒
+
+IP Address: 1.34.89.47
+Port: 13749
+Region: TW
+Date: 2024-09-06 05:32:10
+
+Ping延时: 2.46毫秒
+
+IP Address: 152.67.215.136
+Port: 39972
+Region: KR
+Date: 2024-09-06 05:32:42
+
