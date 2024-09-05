@@ -993,3 +993,10 @@ Port: 36355
 Region: KR
 Date: 2024-09-05 23:50:22
 
+Ping延时: 24.61毫秒
+
+IP Address: 193.122.102.79
+Port: 18161
+Region: KR
+Date: 2024-09-06 01:30:35
+
