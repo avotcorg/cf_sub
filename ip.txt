@@ -1084,3 +1084,10 @@ Port: 34237
 Region: KR
 Date: 2024-09-06 17:30:29
 
+Ping延时: 35.16毫秒
+
+IP Address: 129.154.57.131
+Port: 2296
+Region: KR
+Date: 2024-09-06 19:30:31
+
