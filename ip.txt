@@ -1154,3 +1154,10 @@ Port: 25760
 Region: KR
 Date: 2024-09-07 03:34:22
 
+Ping延时: 30.27毫秒
+
+IP Address: 140.238.8.194
+Port: 15800
+Region: KR
+Date: 2024-09-07 05:30:30
+
