@@ -1077,3 +1077,10 @@ Port: 39880
 Region: US
 Date: 2024-09-06 15:49:56
 
+Ping延时: 39.55毫秒
+
+IP Address: 158.180.88.1
+Port: 34237
+Region: KR
+Date: 2024-09-06 17:30:29
+
