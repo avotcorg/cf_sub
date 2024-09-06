@@ -1021,3 +1021,10 @@ Port: 15800
 Region: KR
 Date: 2024-09-06 07:30:34
 
+Ping延时: 26.59毫秒
+
+IP Address: 60.248.63.88
+Port: 12832
+Region: TW
+Date: 2024-09-06 11:32:18
+
