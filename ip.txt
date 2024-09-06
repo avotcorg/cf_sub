@@ -1091,3 +1091,17 @@ Port: 2296
 Region: KR
 Date: 2024-09-06 19:30:31
 
+Ping延时: 71.85毫秒
+
+IP Address: 140.238.8.194
+Port: 15800
+Region: KR
+Date: 2024-09-06 21:30:39
+
+Ping延时: 2.35毫秒
+
+IP Address: 154.21.93.92
+Port: 37956
+Region: US
+Date: 2024-09-06 21:31:29
+
