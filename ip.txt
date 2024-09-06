@@ -1105,3 +1105,31 @@ Port: 37956
 Region: US
 Date: 2024-09-06 21:31:29
 
+Ping延时: 18.88毫秒
+
+IP Address: 8.217.45.219
+Port: 18251
+Region: HK
+Date: 2024-09-06 23:36:29
+
+Ping延时: 2.39毫秒
+
+IP Address: 122.99.28.174
+Port: 12067
+Region: TW
+Date: 2024-09-06 23:39:14
+
+Ping延时: 2.22毫秒
+
+IP Address: 206.190.238.68
+Port: 34446
+Region: JP
+Date: 2024-09-06 23:44:01
+
+Ping延时: 2.19毫秒
+
+IP Address: 146.56.98.233
+Port: 65321
+Region: KR
+Date: 2024-09-06 23:44:34
+
