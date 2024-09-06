@@ -1028,3 +1028,10 @@ Port: 12832
 Region: TW
 Date: 2024-09-06 11:32:18
 
+Ping延时: 45.51毫秒
+
+IP Address: 152.67.215.136
+Port: 39972
+Region: KR
+Date: 2024-09-06 13:30:32
+
