@@ -1189,3 +1189,10 @@ Port: 34237
 Region: KR
 Date: 2024-09-07 11:31:56
 
+Ping延时: 13.91毫秒
+
+IP Address: 158.180.69.78
+Port: 12198
+Region: KR
+Date: 2024-09-07 13:30:32
+
