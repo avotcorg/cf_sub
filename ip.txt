@@ -1175,3 +1175,17 @@ Port: 443
 Region: KR
 Date: 2024-09-07 09:30:30
 
+Ping延时: 55.46毫秒
+
+IP Address: 35.206.233.19
+Port: 40700
+Region: TW
+Date: 2024-09-07 11:31:24
+
+Ping延时: 2.32毫秒
+
+IP Address: 158.180.88.1
+Port: 34237
+Region: KR
+Date: 2024-09-07 11:31:56
+
