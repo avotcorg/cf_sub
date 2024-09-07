@@ -1168,3 +1168,10 @@ Port: 19276
 Region: KR
 Date: 2024-09-07 07:30:34
 
+Ping延时: 87.45毫秒
+
+IP Address: 152.67.222.167
+Port: 443
+Region: KR
+Date: 2024-09-07 09:30:30
+
