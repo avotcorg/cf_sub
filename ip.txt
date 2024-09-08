@@ -1343,3 +1343,10 @@ Port: 15800
 Region: KR
 Date: 2024-09-09 01:30:36
 
+Ping延时: 22.97毫秒
+
+IP Address: 146.56.101.164
+Port: 34237
+Region: KR
+Date: 2024-09-09 03:30:34
+
